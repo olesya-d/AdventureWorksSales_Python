@@ -1,0 +1,291 @@
+﻿JobTitle,PersonType,SickLeaveHours,Department,GroupName
+Chief Executive Officer,EM,69,Executive,Executive General and Administration
+Vice President of Engineering,EM,20,Engineering,Research and Development
+Engineering Manager,EM,21,Engineering,Research and Development
+Senior Tool Designer,EM,80,Tool Design,Research and Development
+Design Engineer,EM,22,Engineering,Research and Development
+Design Engineer,EM,23,Engineering,Research and Development
+Research and Development Manager,EM,50,Research and Development,Research and Development
+Research and Development Engineer,EM,51,Research and Development,Research and Development
+Research and Development Engineer,EM,51,Research and Development,Research and Development
+Research and Development Manager,EM,64,Research and Development,Research and Development
+Senior Tool Designer,EM,23,Tool Design,Research and Development
+Tool Designer,EM,24,Tool Design,Research and Development
+Tool Designer,EM,24,Tool Design,Research and Development
+Senior Design Engineer,EM,21,Engineering,Research and Development
+Design Engineer,EM,22,Engineering,Research and Development
+Marketing Manager,EM,40,Marketing,Sales and Marketing
+Marketing Assistant,EM,41,Marketing,Sales and Marketing
+Marketing Specialist,EM,44,Marketing,Sales and Marketing
+Marketing Assistant,EM,41,Marketing,Sales and Marketing
+Marketing Assistant,EM,40,Marketing,Sales and Marketing
+Marketing Specialist,EM,42,Marketing,Sales and Marketing
+Marketing Specialist,EM,42,Marketing,Sales and Marketing
+Marketing Specialist,EM,43,Marketing,Sales and Marketing
+Marketing Specialist,EM,43,Marketing,Sales and Marketing
+Vice President of Production,EM,52,Production,Manufacturing
+Production Control Manager,EM,41,Production Control,Manufacturing
+Production Supervisor - WC60,EM,60,Production,Manufacturing
+Production Technician - WC60,EM,30,Production,Manufacturing
+Production Technician - WC60,EM,29,Production,Manufacturing
+Production Technician - WC60,EM,27,Production,Manufacturing
+Production Technician - WC60,EM,29,Production,Manufacturing
+Production Technician - WC60,EM,31,Production,Manufacturing
+Production Technician - WC60,EM,28,Production,Manufacturing
+Production Technician - WC60,EM,27,Production,Manufacturing
+Production Technician - WC60,EM,31,Production,Manufacturing
+Production Technician - WC60,EM,30,Production,Manufacturing
+Production Technician - WC60,EM,28,Production,Manufacturing
+Production Technician - WC60,EM,32,Production,Manufacturing
+Production Technician - WC60,EM,32,Production,Manufacturing
+Production Supervisor - WC60,EM,61,Production,Manufacturing
+Production Technician - WC60,EM,37,Production,Manufacturing
+Production Technician - WC60,EM,39,Production,Manufacturing
+Production Technician - WC60,EM,37,Production,Manufacturing
+Production Technician - WC60,EM,39,Production,Manufacturing
+Production Technician - WC60,EM,38,Production,Manufacturing
+Production Technician - WC60,EM,38,Production,Manufacturing
+Production Supervisor - WC10,EM,52,Production,Manufacturing
+Production Technician - WC10,EM,61,Production,Manufacturing
+Production Technician - WC10,EM,64,Production,Manufacturing
+Production Technician - WC10,EM,62,Production,Manufacturing
+Production Technician - WC10,EM,62,Production,Manufacturing
+Production Technician - WC10,EM,63,Production,Manufacturing
+Production Technician - WC10,EM,63,Production,Manufacturing
+Production Technician - WC10,EM,64,Production,Manufacturing
+Production Supervisor - WC50,EM,59,Production,Manufacturing
+Production Technician - WC50,EM,24,Production,Manufacturing
+Production Technician - WC50,EM,25,Production,Manufacturing
+Production Technician - WC50,EM,25,Production,Manufacturing
+Production Technician - WC50,EM,26,Production,Manufacturing
+Production Technician - WC50,EM,26,Production,Manufacturing
+Production Technician - WC50,EM,24,Production,Manufacturing
+Production Supervisor - WC60,EM,60,Production,Manufacturing
+Production Technician - WC60,EM,35,Production,Manufacturing
+Production Technician - WC60,EM,33,Production,Manufacturing
+Production Technician - WC60,EM,34,Production,Manufacturing
+Production Technician - WC60,EM,34,Production,Manufacturing
+Production Technician - WC60,EM,36,Production,Manufacturing
+Production Technician - WC60,EM,33,Production,Manufacturing
+Production Technician - WC60,EM,35,Production,Manufacturing
+Production Technician - WC60,EM,36,Production,Manufacturing
+Production Supervisor - WC30,EM,55,Production,Manufacturing
+Production Technician - WC30,EM,40,Production,Manufacturing
+Production Technician - WC30,EM,41,Production,Manufacturing
+Production Technician - WC30,EM,41,Production,Manufacturing
+Production Technician - WC30,EM,42,Production,Manufacturing
+Production Technician - WC30,EM,42,Production,Manufacturing
+Production Technician - WC30,EM,43,Production,Manufacturing
+Production Supervisor - WC40,EM,56,Production,Manufacturing
+Production Technician - WC40,EM,50,Production,Manufacturing
+Production Technician - WC40,EM,52,Production,Manufacturing
+Production Technician - WC40,EM,52,Production,Manufacturing
+Production Technician - WC40,EM,51,Production,Manufacturing
+Production Technician - WC40,EM,50,Production,Manufacturing
+Production Technician - WC40,EM,53,Production,Manufacturing
+Production Technician - WC40,EM,51,Production,Manufacturing
+Production Technician - WC40,EM,49,Production,Manufacturing
+Production Supervisor - WC10,EM,53,Production,Manufacturing
+Production Technician - WC10,EM,69,Production,Manufacturing
+Production Technician - WC10,EM,68,Production,Manufacturing
+Production Technician - WC10,EM,68,Production,Manufacturing
+Production Technician - WC10,EM,67,Production,Manufacturing
+Production Technician - WC10,EM,69,Production,Manufacturing
+Production Supervisor - WC50,EM,59,Production,Manufacturing
+Production Technician - WC50,EM,23,Production,Manufacturing
+Production Technician - WC50,EM,20,Production,Manufacturing
+Production Technician - WC50,EM,22,Production,Manufacturing
+Production Technician - WC50,EM,20,Production,Manufacturing
+Production Technician - WC50,EM,22,Production,Manufacturing
+Production Technician - WC50,EM,21,Production,Manufacturing
+Production Technician - WC50,EM,23,Production,Manufacturing
+Production Technician - WC50,EM,21,Production,Manufacturing
+Production Supervisor - WC10,EM,53,Production,Manufacturing
+Production Technician - WC10,EM,66,Production,Manufacturing
+Production Technician - WC10,EM,67,Production,Manufacturing
+Production Technician - WC10,EM,65,Production,Manufacturing
+Production Technician - WC10,EM,66,Production,Manufacturing
+Production Technician - WC10,EM,65,Production,Manufacturing
+Production Supervisor - WC50,EM,58,Production,Manufacturing
+Production Technician - WC50,EM,67,Production,Manufacturing
+Production Technician - WC50,EM,65,Production,Manufacturing
+Production Technician - WC50,EM,66,Production,Manufacturing
+Production Technician - WC50,EM,65,Production,Manufacturing
+Production Technician - WC50,EM,68,Production,Manufacturing
+Production Technician - WC50,EM,68,Production,Manufacturing
+Production Technician - WC50,EM,66,Production,Manufacturing
+Production Technician - WC50,EM,69,Production,Manufacturing
+Production Technician - WC50,EM,69,Production,Manufacturing
+Production Technician - WC50,EM,64,Production,Manufacturing
+Production Technician - WC50,EM,67,Production,Manufacturing
+Production Technician - WC50,EM,64,Production,Manufacturing
+Shipping and Receiving Supervisor,EM,66,Shipping and Receiving,Inventory Management
+Stocker,EM,68,Shipping and Receiving,Inventory Management
+Shipping and Receiving Clerk,EM,67,Shipping and Receiving,Inventory Management
+Stocker,EM,69,Shipping and Receiving,Inventory Management
+Shipping and Receiving Clerk,EM,67,Shipping and Receiving,Inventory Management
+Stocker,EM,68,Shipping and Receiving,Inventory Management
+Production Supervisor - WC40,EM,56,Production,Manufacturing
+Production Technician - WC40,EM,54,Production,Manufacturing
+Production Technician - WC40,EM,54,Production,Manufacturing
+Production Technician - WC40,EM,55,Production,Manufacturing
+Production Technician - WC40,EM,56,Production,Manufacturing
+Production Technician - WC40,EM,53,Production,Manufacturing
+Production Technician - WC40,EM,55,Production,Manufacturing
+Production Supervisor - WC20,EM,40,Production,Manufacturing
+Production Technician - WC20,EM,24,Production,Manufacturing
+Production Technician - WC20,EM,22,Production,Manufacturing
+Production Technician - WC20,EM,24,Production,Manufacturing
+Production Technician - WC20,EM,23,Production,Manufacturing
+Production Technician - WC20,EM,20,Production,Manufacturing
+Production Technician - WC20,EM,22,Production,Manufacturing
+Production Technician - WC20,EM,20,Production,Manufacturing
+Production Technician - WC20,EM,21,Production,Manufacturing
+Production Technician - WC20,EM,21,Production,Manufacturing
+Production Technician - WC20,EM,23,Production,Manufacturing
+Production Supervisor - WC30,EM,54,Production,Manufacturing
+Production Technician - WC30,EM,38,Production,Manufacturing
+Production Technician - WC30,EM,38,Production,Manufacturing
+Production Technician - WC30,EM,39,Production,Manufacturing
+Production Technician - WC30,EM,39,Production,Manufacturing
+Production Technician - WC30,EM,37,Production,Manufacturing
+Production Technician - WC30,EM,40,Production,Manufacturing
+Production Supervisor - WC20,EM,40,Production,Manufacturing
+Production Technician - WC20,EM,27,Production,Manufacturing
+Production Technician - WC20,EM,25,Production,Manufacturing
+Production Technician - WC20,EM,28,Production,Manufacturing
+Production Technician - WC20,EM,25,Production,Manufacturing
+Production Technician - WC20,EM,26,Production,Manufacturing
+Production Technician - WC20,EM,27,Production,Manufacturing
+Production Technician - WC20,EM,26,Production,Manufacturing
+Production Supervisor - WC45,EM,57,Production,Manufacturing
+Production Technician - WC45,EM,57,Production,Manufacturing
+Production Technician - WC45,EM,57,Production,Manufacturing
+Production Technician - WC45,EM,58,Production,Manufacturing
+Production Technician - WC45,EM,56,Production,Manufacturing
+Production Technician - WC45,EM,58,Production,Manufacturing
+Production Supervisor - WC30,EM,54,Production,Manufacturing
+Production Technician - WC30,EM,32,Production,Manufacturing
+Production Technician - WC30,EM,37,Production,Manufacturing
+Production Technician - WC30,EM,35,Production,Manufacturing
+Production Technician - WC30,EM,33,Production,Manufacturing
+Production Technician - WC30,EM,36,Production,Manufacturing
+Production Technician - WC30,EM,31,Production,Manufacturing
+Production Technician - WC30,EM,36,Production,Manufacturing
+Production Technician - WC30,EM,34,Production,Manufacturing
+Production Technician - WC30,EM,31,Production,Manufacturing
+Production Technician - WC30,EM,34,Production,Manufacturing
+Production Technician - WC30,EM,32,Production,Manufacturing
+Production Technician - WC30,EM,33,Production,Manufacturing
+Production Technician - WC30,EM,35,Production,Manufacturing
+Production Supervisor - WC20,EM,41,Production,Manufacturing
+Production Technician - WC20,EM,30,Production,Manufacturing
+Production Technician - WC20,EM,30,Production,Manufacturing
+Production Technician - WC20,EM,28,Production,Manufacturing
+Production Technician - WC20,EM,29,Production,Manufacturing
+Production Technician - WC20,EM,29,Production,Manufacturing
+Production Supervisor - WC45,EM,57,Production,Manufacturing
+Production Technician - WC45,EM,59,Production,Manufacturing
+Production Technician - WC45,EM,60,Production,Manufacturing
+Production Technician - WC45,EM,60,Production,Manufacturing
+Production Technician - WC45,EM,61,Production,Manufacturing
+Production Technician - WC45,EM,59,Production,Manufacturing
+Production Supervisor - WC40,EM,55,Production,Manufacturing
+Production Technician - WC40,EM,46,Production,Manufacturing
+Production Technician - WC40,EM,43,Production,Manufacturing
+Production Technician - WC40,EM,49,Production,Manufacturing
+Production Technician - WC40,EM,46,Production,Manufacturing
+Production Technician - WC40,EM,44,Production,Manufacturing
+Production Technician - WC40,EM,44,Production,Manufacturing
+Production Technician - WC40,EM,47,Production,Manufacturing
+Production Technician - WC40,EM,48,Production,Manufacturing
+Production Technician - WC40,EM,47,Production,Manufacturing
+Production Technician - WC40,EM,45,Production,Manufacturing
+Production Technician - WC40,EM,45,Production,Manufacturing
+Production Technician - WC40,EM,48,Production,Manufacturing
+Production Supervisor - WC45,EM,58,Production,Manufacturing
+Production Technician - WC45,EM,62,Production,Manufacturing
+Production Technician - WC45,EM,62,Production,Manufacturing
+Production Technician - WC45,EM,63,Production,Manufacturing
+Production Technician - WC45,EM,63,Production,Manufacturing
+Production Technician - WC45,EM,61,Production,Manufacturing
+Quality Assurance Manager,EM,60,Quality Assurance,Quality Assurance
+Quality Assurance Supervisor,EM,60,Quality Assurance,Quality Assurance
+Quality Assurance Technician,EM,62,Quality Assurance,Quality Assurance
+Quality Assurance Technician,EM,62,Quality Assurance,Quality Assurance
+Quality Assurance Technician,EM,61,Quality Assurance,Quality Assurance
+Quality Assurance Technician,EM,61,Quality Assurance,Quality Assurance
+Document Control Manager,EM,58,Document Control,Quality Assurance
+Control Specialist,EM,58,Document Control,Quality Assurance
+Document Control Assistant,EM,59,Document Control,Quality Assurance
+Document Control Assistant,EM,59,Document Control,Quality Assurance
+Control Specialist,EM,57,Document Control,Quality Assurance
+Master Scheduler,EM,42,Production Control,Manufacturing
+Scheduling Assistant,EM,43,Production Control,Manufacturing
+Scheduling Assistant,EM,42,Production Control,Manufacturing
+Scheduling Assistant,EM,43,Production Control,Manufacturing
+Scheduling Assistant,EM,44,Production Control,Manufacturing
+Facilities Manager,EM,63,Facilities and Maintenance,Executive General and Administration
+Maintenance Supervisor,EM,66,Facilities and Maintenance,Executive General and Administration
+Janitor,EM,65,Facilities and Maintenance,Executive General and Administration
+Janitor,EM,64,Facilities and Maintenance,Executive General and Administration
+Janitor,EM,65,Facilities and Maintenance,Executive General and Administration
+Janitor,EM,64,Facilities and Maintenance,Executive General and Administration
+Facilities Administrative Assistant,EM,63,Facilities and Maintenance,Executive General and Administration
+Chief Financial Officer,EM,20,Executive,Executive General and Administration
+Human Resources Manager,EM,47,Human Resources,Executive General and Administration
+Human Resources Administrative Assistant,EM,46,Human Resources,Executive General and Administration
+Human Resources Administrative Assistant,EM,46,Human Resources,Executive General and Administration
+Recruiter,EM,45,Human Resources,Executive General and Administration
+Benefits Specialist,EM,45,Human Resources,Executive General and Administration
+Recruiter,EM,44,Human Resources,Executive General and Administration
+Accounts Manager,EM,48,Finance,Executive General and Administration
+Accounts Receivable Specialist,EM,50,Finance,Executive General and Administration
+Accounts Receivable Specialist,EM,50,Finance,Executive General and Administration
+Accounts Receivable Specialist,EM,51,Finance,Executive General and Administration
+Accountant,EM,49,Finance,Executive General and Administration
+Accounts Payable Specialist,EM,51,Finance,Executive General and Administration
+Accounts Payable Specialist,EM,52,Finance,Executive General and Administration
+Accountant,EM,49,Finance,Executive General and Administration
+Finance Manager,EM,47,Finance,Executive General and Administration
+Purchasing Manager,EM,44,Purchasing,Inventory Management
+Buyer,EM,49,Purchasing,Inventory Management
+Buyer,EM,50,Purchasing,Inventory Management
+Buyer,EM,48,Purchasing,Inventory Management
+Buyer,EM,48,Purchasing,Inventory Management
+Buyer,EM,46,Purchasing,Inventory Management
+Buyer,EM,49,Purchasing,Inventory Management
+Buyer,EM,47,Purchasing,Inventory Management
+Buyer,EM,46,Purchasing,Inventory Management
+Buyer,EM,47,Purchasing,Inventory Management
+Purchasing Assistant,EM,45,Purchasing,Inventory Management
+Purchasing Assistant,EM,45,Purchasing,Inventory Management
+Assistant to the Chief Financial Officer,EM,48,Finance,Executive General and Administration
+Information Services Manager,EM,52,Information Services,Executive General and Administration
+Network Manager,EM,54,Information Services,Executive General and Administration
+Network Administrator,EM,55,Information Services,Executive General and Administration
+Network Administrator,EM,54,Information Services,Executive General and Administration
+Application Specialist,EM,57,Information Services,Executive General and Administration
+Application Specialist,EM,56,Information Services,Executive General and Administration
+Application Specialist,EM,56,Information Services,Executive General and Administration
+Database Administrator,EM,53,Information Services,Executive General and Administration
+Database Administrator,EM,53,Information Services,Executive General and Administration
+Application Specialist,EM,55,Information Services,Executive General and Administration
+Vice President of Sales,EM,25,Sales,Sales and Marketing
+North American Sales Manager,SP,27,Sales,Sales and Marketing
+Sales Representative,SP,39,Sales,Sales and Marketing
+Sales Representative,SP,33,Sales,Sales and Marketing
+Sales Representative,SP,32,Sales,Sales and Marketing
+Sales Representative,SP,36,Sales,Sales and Marketing
+Sales Representative,SP,34,Sales,Sales and Marketing
+Sales Representative,SP,31,Sales,Sales and Marketing
+Sales Representative,SP,33,Sales,Sales and Marketing
+Sales Representative,SP,35,Sales,Sales and Marketing
+Sales Representative,SP,31,Sales,Sales and Marketing
+Sales Representative,SP,39,Sales,Sales and Marketing
+Pacific Sales Manager,SP,30,Sales,Sales and Marketing
+Sales Representative,SP,38,Sales,Sales and Marketing
+European Sales Manager,SP,30,Sales,Sales and Marketing
+Sales Representative,SP,37,Sales,Sales and Marketing
+Sales Representative,SP,38,Sales,Sales and Marketing
+Sales Representative,SP,37,Sales,Sales and Marketing

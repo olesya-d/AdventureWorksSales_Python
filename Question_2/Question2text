@@ -1,0 +1,5 @@
+2.What is the relationship between annual leave taken and bonus?
+Step 1) A SQL query to select the available information on bonus and vacation hours taken, matched by employee id.
+Step 2) Use pandas to calculate the correlation between bonus and vacation.
+Step 2) Use matplotlib.pyplot to create a scatter plot to show there is no correlation between the vacation taken and bonus.
+

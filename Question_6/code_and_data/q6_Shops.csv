@@ -1,0 +1,702 @@
+﻿BusinessEntityID,Name,SquareFeet,NumberEmployees,AnnualRevenue
+334,Global Plaza,19000,19,80000.00
+336,Imported and Domestic Cycles,24000,20,100000.00
+338,Systematic Sales,73000,55,300000.00
+340,eCommerce Bikes,69000,58,300000.00
+342,Mountain Toy Store,18000,17,80000.00
+344,Retail Sales and Service,18000,14,80000.00
+346,Designated Distributors,72000,61,300000.00
+348,Bold Bike Accessories,72000,58,300000.00
+350,Twin Cycles,21000,11,80000.00
+352,Tiny Bike Boutique,6000,4,30000.00
+354,Acclaimed Bicycle Company,73000,61,300000.00
+356,Serious Cycles,71000,64,300000.00
+358,Quality Bike Sales,74000,67,300000.00
+360,Novelty Bikes,74000,70,300000.00
+362,Distinctive Cycles Sales & Service,75000,79,300000.00
+364,Leading Bike Distributors,18000,13,80000.00
+366,Activity Center,37000,37,150000.00
+368,Brightwork Company,36000,38,150000.00
+370,Resale Services,21000,16,80000.00
+372,The Gear Store,21000,14,80000.00
+374,Immense Manufacturing Company,76000,73,300000.00
+376,Extended Bike Sales,73000,76,300000.00
+378,Pedaling Components,36000,35,150000.00
+380,Workout Emporium,39000,36,150000.00
+382,Work and Play Association,22000,12,80000.00
+384,Seaside Bike Works,19000,10,80000.00
+386,Nice Bikes,9000,8,30000.00
+388,Remarkable Bike Store,17000,10,80000.00
+390,Road-Way Mart,26000,27,100000.00
+392,Small Cycle Store,25000,28,100000.00
+394,Blue-Ribbon Bike Company,9000,6,30000.00
+396,Flawless Bike Shop,10000,4,30000.00
+332,Family's Favorite Bike Shop,21000,18,80000.00
+330,Major Sport Suppliers,68000,52,300000.00
+328,Purchase Mart,38000,49,150000.00
+326,Worthwhile Activity Store,8000,7,30000.00
+324,Valley Toy Store,9000,6,30000.00
+322,Irregulars Outlet,7000,5,30000.00
+320,Metropolitan Sales and Rental,6000,4,30000.00
+318,"Great Bikes ",10000,3,30000.00
+316,Fun Toys and Bikes,6000,2,30000.00
+314,Top of the Line Bikes,40000,46,150000.00
+312,Vinyl and Plastic Goods Corporation,41000,43,150000.00
+310,New Bikes Company,39000,40,150000.00
+308,Valley Bicycle Specialists,72000,66,300000.00
+306,Clamps & Brackets Co.,17000,10,80000.00
+304,Bicycle Accessories and Kits,7000,9,30000.00
+302,Area Bike Accessories,9000,8,30000.00
+300,Nationwide Supply,21000,17,80000.00
+298,The Bike Mechanics,18000,16,80000.00
+296,Riders Company,21000,15,80000.00
+294,Professional Sales and Service,18000,14,80000.00
+292,Next-Door Bike Store,21000,13,80000.00
+398,Grand Bicycle Stores,10000,2,30000.00
+400,Exertion Activities Club,38000,32,150000.00
+402,Impromptu Trips,37000,33,150000.00
+404,Margie's Travel,35000,34,150000.00
+406,Kickstand Sellers,8000,3,30000.00
+408,Nearest Bike Store,8000,4,30000.00
+410,Fast Bike Works,25000,28,100000.00
+412,Gasless Cycle Shop,24000,29,100000.00
+414,Lubricant and Grease Suppliers,37000,30,150000.00
+416,Teen Discount Store,18000,16,80000.00
+418,Transportation Options,20000,17,80000.00
+420,Capital Riding Supplies,39000,46,150000.00
+422,Bike Boutique,41000,49,150000.00
+424,Bikes Anyone?,27000,22,100000.00
+426,Cross-town Parts Shop,23000,19,80000.00
+428,Finer Cycle Shop,20000,16,80000.00
+430,Center Cycle Shop,25000,20,100000.00
+432,Bulk Discount Store,21000,17,80000.00
+434,Country Parts Shop,21000,14,80000.00
+436,Second Bike Shop,21000,19,80000.00
+438,First-Rate Outlet,26000,20,100000.00
+440,Juvenile Sports Equipment,20000,18,80000.00
+442,Another Bicycle Company,6000,2,30000.00
+444,Fourth Bike Store,9000,3,30000.00
+446,Rodeway Bike Store,7000,4,30000.00
+448,Traction Tire Company,39000,31,150000.00
+450,Unsurpassed Bikes,39000,32,150000.00
+452,Field Trip Inc,35000,33,150000.00
+454,Tire Company,37000,45,150000.00
+456,Uncompromising Quality Co,39000,46,150000.00
+458,Metallic Paint and Overcoat Co,26000,28,100000.00
+460,Pro Sporting Goods,79000,90,300000.00
+462,Sporting Goods and Bicycle Shop,78000,91,300000.00
+464,Odometers and Accessories Company,76000,92,300000.00
+466,Scratch-Resistant Finishes Company,21000,16,80000.00
+468,Topnotch Bikes,22000,13,80000.00
+470,"Unicycles, Bicycles, and Tricycles",17000,10,80000.00
+472,Safe Cycles Shop,72000,73,300000.00
+474,Number 1 Supply,75000,76,300000.00
+476,Industrial Supplies,73000,79,300000.00
+478,Golf and Cycle Store,75000,86,300000.00
+480,Front Runner Bikes,77000,87,300000.00
+482,Favorite Toy Distributor,77000,88,300000.00
+484,World Bike Discount Store,39000,38,150000.00
+486,Global Sporting Goods,36000,39,150000.00
+488,Historic Bicycle Sales,38000,40,150000.00
+490,Commuter Bicycle Store,22000,17,80000.00
+492,Coalition Bike Company,23000,18,80000.00
+494,Travel Systems,21000,19,80000.00
+496,Grease and Oil Products Company,36000,38,150000.00
+498,Moderately-Priced Bikes Store,39000,39,150000.00
+500,Toy Manufacturing Inc,40000,41,150000.00
+502,Eighty Toy Stores,37000,42,150000.00
+504,Economy Bikes Company,41000,43,150000.00
+506,Third Bike Store,37000,44,150000.00
+508,Atypical Bike Company,25000,20,100000.00
+510,Bikes for Two,22000,18,80000.00
+512,Metal Processing Company,39000,47,150000.00
+514,Widget Bicycle Specialists,38000,48,150000.00
+516,Initial Bike Company,19000,13,80000.00
+518,Latest Sports Equipment,18000,14,80000.00
+520,Modern Bike Store,21000,15,80000.00
+522,Raw Materials Inc,74000,73,300000.00
+524,Lots of Bikes Storehouse,73000,76,300000.00
+526,Futuristic Bikes,77000,79,300000.00
+528,Parcel Express Delivery Service,36000,38,150000.00
+530,Outdoor Distributors,36000,39,150000.00
+532,North Bike Company,37000,40,150000.00
+534,Prosperous Tours,79000,99,300000.00
+536,Nonskid Tire Company,80000,100,300000.00
+538,Amalgamated Parts Shop,77000,99,300000.00
+540,Metro Bike Works,77000,100,300000.00
+542,Best o' Bikes,19000,10,80000.00
+544,Painters Bicycle Specialists,24000,27,100000.00
+546,Client Discount Store,24000,20,100000.00
+548,Eastside Sporting Goods,19000,17,80000.00
+550,Helmets and Cycles,21000,14,80000.00
+552,Requisite Part Supply,39000,35,150000.00
+554,Racks and Security Systems,39000,36,150000.00
+556,Mechanical Products Ltd.,38000,37,150000.00
+558,Commendable Bikes,37000,39,150000.00
+560,Online Bike Sellers,39000,40,150000.00
+562,Custom Accessories Company,79000,98,300000.00
+564,Unusual Bicycle Company,78000,99,300000.00
+566,Courteous Bicycle Specialists,10000,8,30000.00
+568,Hobby Store,6000,5,30000.00
+570,Professional Cycle Store,10000,2,30000.00
+572,Bike Universe,28000,28,100000.00
+574,Fifth Bike Store,26000,25,100000.00
+576,Independent Outlet,25000,22,100000.00
+578,Rambling Tours,19000,19,80000.00
+580,Farthest Bike Store,74000,80,300000.00
+582,Excellent Bikes,75000,81,300000.00
+584,Curbside Universe,73000,82,300000.00
+586,Alternative Vehicles,41000,45,150000.00
+588,Channel Outlet,40000,46,150000.00
+590,Full Sports Supply,38000,47,150000.00
+592,Retail Mall,79000,91,300000.00
+594,Racing Store,78000,92,300000.00
+596,Metro Metals Co.,77000,93,300000.00
+598,Sheet Metal Manufacturing,19000,17,80000.00
+600,Thorough Parts and Repair Services,22000,18,80000.00
+602,Uttermost Bike Shop,20000,19,80000.00
+604,Mechanical Sports Center,40000,40,150000.00
+606,Speedometer Sales,39000,37,150000.00
+608,Two-Wheeled Transit Company,38000,34,150000.00
+610,Mountain Emporium,37000,31,150000.00
+612,Metro Cycle Shop,74000,83,300000.00
+614,Outdoor Sporting Goods,74000,84,300000.00
+616,Tread Industries,77000,85,300000.00
+618,Petroleum Products Distributors,78000,86,300000.00
+620,Tandem Bicycle Store,37000,46,150000.00
+622,Bikes and Motorbikes,40000,49,150000.00
+624,Budget Toy Store,71000,52,300000.00
+626,Camping and Sports Store,77000,80,300000.00
+628,Ace Bicycle Supply,73000,81,300000.00
+630,Rural Department Store,35000,31,150000.00
+632,Sports Commodities,37000,32,150000.00
+634,Riverside Company,38000,33,150000.00
+636,Bicycle Exporters,39000,34,150000.00
+638,Responsible Bike Dealers,40000,49,150000.00
+640,Western Bike Supplies,38000,48,150000.00
+642,Advanced Bike Components,38000,40,150000.00
+644,Aerobic Exercise Company,40000,43,150000.00
+646,Rural Sporting Goods,20000,10,80000.00
+648,Corner Bicycle Supply,17000,11,80000.00
+650,Distance Bikes,20000,12,80000.00
+652,Westside Plaza,74000,83,300000.00
+654,Ultimate Bike Shop,78000,84,300000.00
+656,Outstanding Cycles,78000,85,300000.00
+658,Vigorous Sports Store,73000,82,300000.00
+660,Sports Merchandise,73000,83,300000.00
+662,Fitness Toy Store,75000,84,300000.00
+664,Casual Bicycle Store,18000,10,80000.00
+666,Fitness Discount Store,19000,11,80000.00
+668,General Cycle Storehouse,20000,12,80000.00
+670,Fitness Cycling,18000,16,80000.00
+672,Good Bike Shop,19000,14,80000.00
+674,Imaginary Toys,20000,12,80000.00
+676,Inexpensive Parts Shop,35000,34,150000.00
+678,Nuts and Bolts Mfg.,37000,35,150000.00
+680,Principal Bicycle Supply,39000,36,150000.00
+682,Thrilling Bike Tours,37000,37,150000.00
+684,This Area Sporting Goods,39000,38,150000.00
+686,Full-Service Bike Store,38000,39,150000.00
+688,Plastic Products Manufacturers,37000,40,150000.00
+690,Kids and Adults Cycle Shop,75000,93,300000.00
+692,Grand Discount Store,75000,94,300000.00
+694,Genuine Bike Shop,76000,95,300000.00
+696,Extreme Riding Supplies,79000,96,300000.00
+698,Bike Rims Company,80000,97,300000.00
+700,Fleet Bikes,40000,49,150000.00
+702,Local Hardware Factory,41000,46,150000.00
+704,Only Bikes and Accessories,40000,43,150000.00
+706,Rental Gallery,37000,40,150000.00
+708,South Bike Company,40000,37,150000.00
+710,Wonderful Bikes Inc.,37000,34,150000.00
+712,Another Sporting Goods Company,37000,31,150000.00
+714,Discount Bicycle Specialists,28000,28,100000.00
+716,Famous Bike Sales and Service,26000,25,100000.00
+718,First Supplies,26000,22,100000.00
+720,Machines & Cycles Store,22000,19,80000.00
+722,Pedals Warehouse,20000,16,80000.00
+724,Two Wheels Cycle Store,22000,13,80000.00
+726,Westside Cycle Store,20000,10,80000.00
+728,Wholesale Bikes,27000,27,100000.00
+730,Very Best Sports Supply,28000,28,100000.00
+732,Urban Sports Emporium,24000,29,100000.00
+734,Superlative Bikes,36000,30,150000.00
+736,Primary Cycle Shop,37000,41,150000.00
+738,Sixth Bike Store,37000,42,150000.00
+740,Touring Services,38000,43,150000.00
+742,Vehicle Shop,38000,44,150000.00
+744,First Department Stores,38000,45,150000.00
+746,Grand Sport Boutique,39000,46,150000.00
+748,Major Equipment Co,37000,47,150000.00
+750,Custom Sales and Service,39000,48,150000.00
+752,Elemental Sporting Goods,41000,49,150000.00
+754,Distinctive Store,37000,46,150000.00
+756,Grand Cycle Store,41000,43,150000.00
+758,Nearby Bike Mall,74000,87,300000.00
+760,Handy Bike Services,76000,88,300000.00
+762,Friendly Bike Shop,75000,89,300000.00
+764,Fashionable Bikes and Accessories,76000,90,300000.00
+766,Extreme Toy Store,75000,91,300000.00
+768,Citywide Service and Repair,79000,92,300000.00
+770,Best Cycle Store,78000,93,300000.00
+772,Professional Sporting Goods,78000,94,300000.00
+774,Rugged Bikes,77000,95,300000.00
+776,Principal Bike Company,79000,96,300000.00
+778,One-Piece Handle Bars,80000,97,300000.00
+780,Finer Riding Supplies,78000,98,300000.00
+782,Neighborhood Store,77000,87,300000.00
+784,Online Bike Catalog,74000,88,300000.00
+786,Outdoor Equipment Store,76000,89,300000.00
+788,Paint Supply,78000,90,300000.00
+790,Preferred Bikes,77000,91,300000.00
+792,Rally Day Mall,75000,92,300000.00
+794,Rewarding Activities Company,76000,93,300000.00
+796,Rich Department Store,76000,94,300000.00
+798,Sales and Supply Company,75000,95,300000.00
+800,Stationary Bikes and Stands,76000,96,300000.00
+802,Successful Sales Company,38000,46,150000.00
+804,Downtown Hotel,74000,85,300000.00
+806,Certified Sports Supply,78000,86,300000.00
+808,Registered Cycle Store,77000,87,300000.00
+810,Rampart Amusement Company,75000,88,300000.00
+812,Sundry Sporting Goods,7000,5,30000.00
+814,Excellent Riding Supplies,9000,6,30000.00
+816,Farthermost Bike Shop,8000,7,30000.00
+818,Suburban Cycle Shop,10000,8,30000.00
+820,Weekend Tours,9000,9,30000.00
+822,Racing Bike Outlet,72000,52,300000.00
+824,Utilitarian Sporting Goods,72000,55,300000.00
+826,"Bike Goods ",73000,58,300000.00
+828,Vigorous Exercise Company,72000,61,300000.00
+830,Showcase for Cycles,71000,64,300000.00
+832,Lease-a-Bike Shop,71000,67,300000.00
+834,Functional Store South,71000,70,300000.00
+836,Active Cycling,73000,73,300000.00
+838,Stock Parts and Supplies,76000,76,300000.00
+840,Roadway Supplies,73000,79,300000.00
+842,Sensational Discount Store,73000,80,300000.00
+844,Future Bikes,74000,81,300000.00
+846,Super Sports Store,78000,100,300000.00
+848,Satin Finish Company,74000,66,300000.00
+850,Regional Manufacturing,38000,40,150000.00
+852,Original Bicycle Supply Company,38000,43,150000.00
+854,First Center,39000,46,150000.00
+856,Action Bicycle Specialists,40000,49,150000.00
+858,Roadway Bike Emporium,68000,52,300000.00
+860,"Sleek Bikes ",70000,55,300000.00
+862,Retail Sporting Equipment,72000,58,300000.00
+864,Price-Cutter Discount Bikes,70000,61,300000.00
+866,Brand New Bikes,73000,64,300000.00
+868,Central Bicycle Specialists,71000,67,300000.00
+870,Vast Bike Sales and Rental,73000,70,300000.00
+872,Summer Sports Place,73000,73,300000.00
+874,Real Sporting Goods,72000,76,300000.00
+876,Versatile Sporting Goods Company,74000,64,300000.00
+878,Bicycle Outfitters,72000,67,300000.00
+880,The Bike Shop,73000,70,300000.00
+882,Safe Toys,74000,73,300000.00
+884,Qualified Sales and Repair Services,75000,76,300000.00
+886,Our Sporting Goods Store,76000,79,300000.00
+888,Lustrous Paints and Components,77000,80,300000.00
+890,Expert Sports Store,77000,81,300000.00
+892,Coho Sports,75000,82,300000.00
+894,Jumbo Bikes,39000,41,150000.00
+896,Quick Delivery Service,37000,42,150000.00
+898,Tough and Reliable Parts,40000,43,150000.00
+900,Basic Sports Equipment,38000,44,150000.00
+902,Cash & Carry Bikes,39000,45,150000.00
+904,Convenient Bike Shop,38000,46,150000.00
+906,Fitness Bike Accessories,39000,47,150000.00
+908,General Bike Corporation,38000,48,150000.00
+910,Quitting Business Distributors,40000,49,150000.00
+912,Retail Cycle Shop,38000,46,150000.00
+914,Social Activities Club,39000,43,150000.00
+916,Blue Bicycle Company,36000,40,150000.00
+918,Expert Cycle Store,38000,37,150000.00
+920,General Riding Supplies,36000,34,150000.00
+922,Parts Shop,38000,31,150000.00
+924,Riding Excursions,27000,28,100000.00
+926,Unique Bikes,27000,25,100000.00
+928,Rural Cycle Emporium,21000,11,80000.00
+930,Associated Bikes,7000,8,30000.00
+932,Modular Cycle Systems,6000,5,30000.00
+934,A Bike Store,7000,2,30000.00
+936,Journey Sporting Goods,21000,13,80000.00
+938,Two Bike Shops,20000,14,80000.00
+940,Cycles Wholesaler & Mfg.,21000,15,80000.00
+942,Wheels Inc.,19000,16,80000.00
+944,Number One Bike Co.,40000,40,150000.00
+946,Racing Supply Distributors,38000,41,150000.00
+948,Standard Bikes,38000,42,150000.00
+950,The Bicycle Accessories Company,37000,43,150000.00
+952,Active Systems,39000,44,150000.00
+954,Futuristic Sport Distributors,78000,94,300000.00
+956,Finer Sales and Service,77000,95,300000.00
+958,Big-Time Bike Store,80000,96,300000.00
+960,The Showroom,79000,97,300000.00
+962,Spa and Exercise Outfitters,79000,98,300000.00
+964,Year-Round Sports,75000,66,300000.00
+966,The New Bike Store,37000,40,150000.00
+968,Resident Cycle Shop,38000,43,150000.00
+970,Primary Bike Distributors,39000,46,150000.00
+972,Major Bicycle Store,41000,49,150000.00
+974,Leather and Vinyl Manufacturing,68000,52,300000.00
+976,Genial Bike Associates,70000,55,300000.00
+978,Commercial Sporting Goods,74000,61,300000.00
+980,Wholesale Parts,70000,64,300000.00
+982,Steel Inc.,74000,67,300000.00
+984,Riding Cycles,74000,70,300000.00
+986,Metro Manufacturing,36000,41,150000.00
+988,Manufacturers Inc,39000,42,150000.00
+990,Locks Company,40000,43,150000.00
+992,Latest Accessories Sales,38000,44,150000.00
+994,Incomparable Bicycle Store,41000,45,150000.00
+996,Hometown Riding Supplies,38000,46,150000.00
+998,Greater Bike Store,39000,47,150000.00
+1000,Games and Sport Supply Company,42000,48,150000.00
+1002,Distant Inn,38000,49,150000.00
+1004,Finer Mart,38000,46,150000.00
+1006,Economic Parts Supply,40000,43,150000.00
+1008,Precision Gears Inc.,38000,40,150000.00
+1010,Cross-Country Riding Supplies,36000,37,150000.00
+1012,Stylish Department Stores,39000,34,150000.00
+1014,Bike World,35000,31,150000.00
+1016,Central Discount Store,25000,28,100000.00
+1018,Trusted Catalog Store,25000,25,100000.00
+1020,Bicycle Warehouse Inc.,26000,22,100000.00
+1022,Sharp Bikes,19000,19,80000.00
+1024,Exemplary Cycles,20000,16,80000.00
+1026,Metropolitan Sports Supply,21000,13,80000.00
+1028,Progressive Sports,18000,10,80000.00
+1030,Underglaze and Finish Company,18000,11,80000.00
+1032,Brakes and Gears,18000,12,80000.00
+1034,The Accessories Store,18000,13,80000.00
+1036,Mountain Bike Store,22000,14,80000.00
+1038,Bike Part Wholesalers,21000,15,80000.00
+1040,Family Cycle Store,18000,16,80000.00
+1042,Popular Bike Lines,20000,17,80000.00
+1044,Superb Sales and Repair,19000,18,80000.00
+1046,Better Bike Shop,19000,19,80000.00
+1048,Countryside Company,26000,20,100000.00
+1050,First Bike Store,21000,17,80000.00
+1052,Traditional Department Stores,18000,14,80000.00
+1054,Eastside Cycle Shop,21000,11,80000.00
+1056,General Department Stores,11000,8,30000.00
+1058,Mass Market Bikes,7000,5,30000.00
+1060,Operational Manufacturing,8000,2,30000.00
+1062,Online Bike Warehouse,21000,17,80000.00
+1064,Retread Tire Company,20000,18,80000.00
+1066,Small Bike Shop,23000,19,80000.00
+1068,Superior Hardware Distributors,25000,20,100000.00
+1070,Fitness Sport Boutique,23000,18,80000.00
+1072,Producer Goods Clearinghouse,22000,16,80000.00
+1074,Recreation Systems,20000,14,80000.00
+1076,Rustic Bike Store,19000,12,80000.00
+1078,Eastside Parts Shop,17000,10,80000.00
+1080,Exchange Parts Inc.,9000,8,30000.00
+1082,First Cycle Store,9000,6,30000.00
+1084,Running and Cycling Gear,7000,4,30000.00
+1086,Seventh Bike Store,10000,2,30000.00
+1088,Fast Services,9000,3,30000.00
+1090,General Associates,9000,4,30000.00
+1092,Good Toys,9000,5,30000.00
+1094,Little Bicycle Supply Shop,11000,6,30000.00
+1096,Retail Toy Store,8000,7,30000.00
+1098,Strenuous Exercise Shop,7000,8,30000.00
+1100,All Seasons Sports Supply,10000,9,30000.00
+1102,Leisure Clearing House,20000,10,80000.00
+1104,Outdoor Toy Store,8000,8,30000.00
+1106,The Commissary,9000,6,30000.00
+1108,Affordable Sports Equipment,8000,4,30000.00
+1110,Local Sales and Rental,10000,2,30000.00
+1112,Economy Center,35000,31,150000.00
+1114,Community Department Stores,36000,34,150000.00
+1116,Area Sheet Metal Supply,36000,37,150000.00
+1118,Synthetic Materials Manufacturing,39000,40,150000.00
+1120,Rural Sales and Service,37000,43,150000.00
+1122,Tubeless Tire Company,75000,89,300000.00
+1124,Tires and Tubes,79000,90,300000.00
+1126,Hardware Components,75000,91,300000.00
+1128,Retail Sporting Goods,78000,92,300000.00
+1130,Efficient Cycling,77000,93,300000.00
+1132,General Industries,42000,48,150000.00
+1134,Highway Bike Shop,40000,49,150000.00
+1136,Rental Bikes,40000,46,150000.00
+1138,Roving Sports,41000,43,150000.00
+1140,Express Bike Services,38000,40,150000.00
+1142,Major Amusement Company,36000,37,150000.00
+1144,Retail Discount Store,37000,34,150000.00
+1146,Vale Riding Supplies,37000,31,150000.00
+1148,A Great Bicycle Company,28000,28,100000.00
+1150,Certified Bicycle Supply,24000,25,100000.00
+1152,Exceptional Cycle Services,27000,22,100000.00
+1154,Instant Cycle Store,23000,19,80000.00
+1156,Leisure Activities,22000,16,80000.00
+1158,Paints and Solvents Company,18000,13,80000.00
+1160,West Wind Distributors,27000,29,100000.00
+1162,Bikes for Kids and Adults,36000,30,150000.00
+1164,Consolidated Sales,38000,31,150000.00
+1166,Home Town Bike Store,20000,11,80000.00
+1168,Optimal Bikes,10000,8,30000.00
+1170,Sample Bike Store,7000,5,30000.00
+1172,Extras Sporting Goods,7000,2,30000.00
+1174,Sure & Reliable Sporting Goods,22000,17,80000.00
+1176,Eleventh Bike Store,22000,18,80000.00
+1178,Enterprise Center,23000,19,80000.00
+1180,Purple Bicycle Company,27000,20,100000.00
+1182,New and Used Bicycles,20000,18,80000.00
+1184,Separate Parts Corporation,21000,16,80000.00
+1186,Basic Bike Company,20000,14,80000.00
+1188,"Fabrikam Inc., West",18000,12,80000.00
+1190,Mechanical Brake Manufacturers,21000,10,80000.00
+1192,Non-Slip Pedal Company,11000,8,30000.00
+1194,Variety Bike Outlet,9000,6,30000.00
+1196,Weekend Bike Tours,7000,4,30000.00
+1198,"Fabrikam Inc., East",20000,11,80000.00
+1200,General Supplies,21000,12,80000.00
+1202,Noiseless Gear Company,20000,13,80000.00
+1204,Racing Toys,18000,14,80000.00
+1206,Capable Sales and Service,10000,3,30000.00
+1208,Little Sports Center,10000,4,30000.00
+1210,Pretty Bikes and Toys,6000,5,30000.00
+1212,Road Way Sales and Rental,10000,6,30000.00
+1214,Sturdy Toys,9000,7,30000.00
+1216,Beneficial Exercises and Activities,9000,8,30000.00
+1218,Fad Outlet,8000,9,30000.00
+1220,Commerce Bicycle Specialists,19000,10,80000.00
+1222,Township Inn,18000,11,80000.00
+1224,Acceptable Sales & Service,21000,12,80000.00
+1226,Brown Bicycle Company,19000,13,80000.00
+1228,District Mall,19000,14,80000.00
+1230,Fitness Supplies,19000,15,80000.00
+1232,Mail Market,19000,16,80000.00
+1234,Spare Parts Co.,19000,17,80000.00
+1236,Twelfth Bike Store,21000,18,80000.00
+1238,Consolidated Messenger,7000,8,30000.00
+1240,Daring Rides,10000,5,30000.00
+1242,Field Trip Store,8000,2,30000.00
+1244,Finish and Sealant Products,22000,17,80000.00
+1246,Finer Parts Shop,19000,18,80000.00
+1248,Glossy Bikes,22000,19,80000.00
+1250,Next Door Cycles,27000,20,100000.00
+1252,Up-To-Date Sports,26000,20,100000.00
+1254,Mountain Bike Center,20000,18,80000.00
+1256,Specialty Sports Store,20000,16,80000.00
+1258,Scooters and Bikes Store,21000,14,80000.00
+1260,Closest Bicycle Store,22000,12,80000.00
+1262,Roadway Bicycle Supply,19000,10,80000.00
+1264,Refined Department Stores,7000,8,30000.00
+1266,Reasonable Bicycle Sales,10000,6,30000.00
+1268,Out-of-the-Way Hotels,8000,4,30000.00
+1270,Outdoor Sports Supply,9000,2,30000.00
+1272,Outdoor Aerobic Systems Company,8000,3,30000.00
+1274,Self-Contained Cycle Parts Company,7000,4,30000.00
+1276,Metal Clearing House,9000,5,30000.00
+1278,Many Bikes Store,10000,6,30000.00
+1280,Largest Bike Store,7000,7,30000.00
+1282,Kickstands and Accessories Company,10000,8,30000.00
+1284,Instruments and Parts Company,8000,9,30000.00
+1286,Neighborhood Bicycle Storehouse,17000,10,80000.00
+1288,Gear-Shift Bikes Limited,21000,11,80000.00
+1290,Frugal Bike Shop,21000,12,80000.00
+1292,Family Entertainment Center,75000,89,300000.00
+1294,Go-cart and Bike Specialists,78000,90,300000.00
+1296,Trailblazing Sports,78000,91,300000.00
+1298,Racing Partners,79000,92,300000.00
+1300,Perfect Toys,76000,93,300000.00
+1302,Exhibition Showroom,77000,94,300000.00
+1304,Authorized Bike Sales and Rental,75000,95,300000.00
+1306,Two-Seater Bikes,80000,96,300000.00
+1308,More Bikes!,79000,97,300000.00
+1310,Unified Sports Company,80000,98,300000.00
+1312,National Manufacturing,80000,99,300000.00
+1314,Volume Bike Sellers,78000,100,300000.00
+1316,Wheelsets Storehouse,73000,66,300000.00
+1318,Town Industries,38000,40,150000.00
+1320,Security Racks and Locks Wholesalers,41000,43,150000.00
+1322,Rapid Bikes,40000,46,150000.00
+1324,Metro Sports Equipment,41000,49,150000.00
+1326,Nearby Sporting Goods,71000,52,300000.00
+1328,Front Sporting Goods,70000,55,300000.00
+1330,Elite Bikes,69000,58,300000.00
+1332,Catalog Store,69000,55,300000.00
+1334,Chic Department Stores,71000,58,300000.00
+1336,Eastside Department Store,70000,61,300000.00
+1338,Sports Sales and Rental,72000,64,300000.00
+1340,Cycle Merchants,75000,67,300000.00
+1342,Global Sports Outlet,75000,70,300000.00
+1344,Exotic Bikes,75000,73,300000.00
+1346,Fitness Hotel,75000,76,300000.00
+1348,Healthy Activity Store,74000,79,300000.00
+1350,Every Bike Shop,76000,80,300000.00
+1352,Grand Industries,77000,81,300000.00
+1354,Ideal Components,76000,82,300000.00
+1356,Larger Cycle Shop,77000,83,300000.00
+1358,Leading Sales & Repair,75000,84,300000.00
+1360,Main Bicycle Services,75000,85,300000.00
+1362,Metro Bike Mart,76000,86,300000.00
+1364,Tandem Sales and Service,38000,34,150000.00
+1366,Sensible Sports,37000,33,150000.00
+1368,Reliable Retail Center,35000,32,150000.00
+1370,Liquidation Sales,37000,31,150000.00
+1372,Friendly Bike Shop,39000,30,150000.00
+1374,Yellow Bicycle Company,26000,29,100000.00
+1376,Sports Products Store,26000,28,100000.00
+1378,Selected Distributors,27000,27,100000.00
+1380,Impervious Paint Company,18000,10,80000.00
+1382,Shipping Specialists,20000,13,80000.00
+1384,Finer Sporting Goods,18000,16,80000.00
+1386,Authentic Sales and Service,20000,19,80000.00
+1388,Official Parts Shop,24000,22,100000.00
+1390,"Contoso, Ltd.",24000,25,100000.00
+1392,Discount Tours,28000,28,100000.00
+1394,Tire Exchange,36000,31,150000.00
+1396,Racing Tours,36000,34,150000.00
+1398,Oils and Fluids Warehouse,37000,37,150000.00
+1400,Finished Parts Shop,36000,40,150000.00
+1402,Consumer Equipment,37000,43,150000.00
+1404,Rally Master Company Inc,77000,97,300000.00
+1406,Professional Cyclists,77000,98,300000.00
+1408,Sports Products Store,78000,99,300000.00
+1410,Exclusive Bicycle Mart,77000,100,300000.00
+1412,City Manufacturing,75000,66,300000.00
+1414,Bike Dealers Association,40000,40,150000.00
+1416,Pedal Systems Company,39000,43,150000.00
+1418,"Health Spa, Limited",40000,46,150000.00
+1420,Global Bike Retailers,40000,49,150000.00
+1422,Fashionable Department Stores,68000,52,300000.00
+1424,Closeout Boutique,70000,55,300000.00
+1426,Bicycle Merchandise Warehouse,69000,58,300000.00
+1428,Spoke Manufacturers,74000,61,300000.00
+1430,Leather Seat Factory,72000,64,300000.00
+1432,Good Bicycle Store,71000,67,300000.00
+1434,Endurance Bikes,75000,70,300000.00
+1436,Practical Bike Supply Company,26000,25,100000.00
+1438,Some Discount Store,27000,22,100000.00
+1440,Variety Cycling,21000,19,80000.00
+1442,Accessories Network,22000,16,80000.00
+1444,Remote Bicycle Specialists,19000,13,80000.00
+1446,Curbside Sporting Goods,20000,10,80000.00
+1448,Friendly Neighborhood Bikes,28000,27,100000.00
+1450,Guaranteed Sales and Service,28000,28,100000.00
+1452,Preferable Bikes,24000,29,100000.00
+1454,Recommended Bicycles,35000,30,150000.00
+1456,Sunny Place Bikes,39000,31,150000.00
+1458,Alpine Ski House,37000,32,150000.00
+1460,Cycles and Scooters,35000,33,150000.00
+1462,Small Bike Accessories Shop,37000,34,150000.00
+1464,List Price Catalog Company,37000,35,150000.00
+1466,Seats and Saddles Company,38000,36,150000.00
+1468,Village Tours,40000,37,150000.00
+1470,All Cycle Shop,25000,27,100000.00
+1472,Tachometers and Accessories,25000,28,100000.00
+1474,Cycles Sales and Repair,26000,29,100000.00
+1476,Low Price Cycles,36000,30,150000.00
+1478,Metropolitan Manufacturing,39000,31,150000.00
+1480,Orange Bicycle Company,37000,32,150000.00
+1482,Riding Associates,36000,33,150000.00
+1484,Essential Bike Works,39000,34,150000.00
+1486,Rural Mountain Bike Mart,39000,35,150000.00
+1488,City Cycling,37000,36,150000.00
+1490,Engineered Bike Systems,40000,37,150000.00
+1796,Professional Containers and Packaging Co.,38000,46,150000.00
+1798,One Bike Company,41000,49,150000.00
+1800,Hiatus Bike Tours,40000,48,150000.00
+1802,Cycling Goods,37000,47,150000.00
+1804,Cycle Clearance,40000,46,150000.00
+1806,Black Bicycle Company,40000,45,150000.00
+1808,Transport Bikes,41000,44,150000.00
+1810,Sellers of Cycles,37000,43,150000.00
+1812,Maintenance and Repair for Bicycles,41000,42,150000.00
+1814,Fitness Department Stores,37000,41,150000.00
+1816,Famous Bike Shop,37000,40,150000.00
+1818,Eastward Bike Accessories,39000,39,150000.00
+1820,Strong Metal Manufacturing,36000,38,150000.00
+1822,Gift and Toy Store,36000,37,150000.00
+1824,Major Sporting Goods,40000,36,150000.00
+1826,Executive Discount Store,39000,35,150000.00
+1828,Major Cycling,77000,79,300000.00
+1830,Getaway Inn,75000,80,300000.00
+1832,Downhill Bicycle Specialists,77000,81,300000.00
+1834,Bike Experts,73000,82,300000.00
+1836,Extraordinary Bike Works,75000,83,300000.00
+1838,Valley Bicycle Distributors,76000,84,300000.00
+1840,Top Sports Supply,78000,85,300000.00
+1842,Racing Sales and Service,77000,86,300000.00
+1844,Metropolitan Bicycle Supply,78000,87,300000.00
+1846,Honest Repair Service,77000,88,300000.00
+1848,Designer Department Stores,74000,89,300000.00
+1850,Wheel Gallery,79000,90,300000.00
+1852,Top Bike Market,75000,80,300000.00
+1854,Region Bike Company,75000,81,300000.00
+1856,Grown-up Bike Store,75000,82,300000.00
+1858,Bicycle Lines Distributors,77000,83,300000.00
+1860,Sparkling Paint and Finishes,76000,84,300000.00
+1862,Racing Association,76000,85,300000.00
+1864,Plastic Parts Company,76000,86,300000.00
+1866,Gears and Parts Company,74000,87,300000.00
+1868,Executive Gift Store,76000,88,300000.00
+1870,Big Cycle Mall,77000,89,300000.00
+1872,Budget Bike Company,22000,18,80000.00
+1874,Eighth Bike Store,21000,19,80000.00
+1876,Demand Distributors,24000,20,100000.00
+1878,Immediate Repair Shop,22000,17,80000.00
+1880,Off-Price Bike Center,22000,14,80000.00
+1882,Red Bicycle Company,18000,11,80000.00
+1884,Retirement Activities Association,11000,8,30000.00
+1886,Trendy Department Stores,9000,5,30000.00
+1888,Vintage Sport Boutique,9000,2,30000.00
+1890,Travel Sports,18000,17,80000.00
+1892,West Side Mart,19000,18,80000.00
+1894,The Bike Outlet,21000,19,80000.00
+1896,Tenth Bike Store,23000,18,80000.00
+1898,Valuable Bike Parts Company,20000,16,80000.00
+1900,Fun Times Club,22000,14,80000.00
+1902,Chain and Chain Tool Distributions,20000,12,80000.00
+1904,Mobile Outlet,17000,10,80000.00
+1906,Regional Cycle Shop,10000,8,30000.00
+1908,Rural Bicycle Supply,10000,6,30000.00
+1910,Wingtip Toys,20000,15,80000.00
+1912,The Cycle Store,22000,16,80000.00
+1914,Educational Services,19000,17,80000.00
+1916,Active Life Toys,20000,18,80000.00
+1918,Simple Bike Parts,21000,19,80000.00
+1920,Timely Shipping Service,24000,20,100000.00
+1922,A Cycle Shop,22000,17,80000.00
+1924,Bike Products and Accessories,19000,14,80000.00
+1926,Fitness Toys,21000,11,80000.00
+1928,Quick Parts and Service,7000,5,30000.00
+1930,Reliable Brake Systems,7000,6,30000.00
+1932,Thrifty Parts and Sales,8000,7,30000.00
+1934,A Typical Bike Shop,8000,8,30000.00
+1936,Active Transport Inc.,8000,9,30000.00
+1938,Cycle Parts and Accessories,20000,10,80000.00
+1940,Fasteners & Bolts Outlet,18000,11,80000.00
+1942,Functional Store North,19000,12,80000.00
+1944,Quantity Discounts,19000,13,80000.00
+1946,Swift Cycles,22000,14,80000.00
+1948,Classic Cycle Store,22000,15,80000.00
+1950,"Helpful Sales and Repair Service ",19000,16,80000.00
+1952,Large Bike Shop,19000,17,80000.00
+1954,Recreation Supplies,22000,18,80000.00
+1956,Wire Baskets and Parts,19000,19,80000.00
+1958,Ultimate Bicycle Company,78000,94,300000.00
+1960,Sports Store,76000,95,300000.00
+1962,Metropolitan Equipment,78000,96,300000.00
+1964,Extended Tours,78000,97,300000.00
+1966,Convenient Sales and Service,77000,98,300000.00
+1968,Solid Bike Parts,77000,99,300000.00
+1970,Permanent Finish Products,79000,100,300000.00
+1972,Mercantile Outlet,71000,66,300000.00
+1974,Links Works,39000,40,150000.00
+1976,Exhilarating Cycles,40000,43,150000.00
+1978,Exercise Center,23000,19,80000.00
+1980,Great Bicycle Supply,27000,20,100000.00
+1982,Mail-Order Outlet,18000,17,80000.00
+1984,Nearby Cycle Shop,20000,14,80000.00
+1986,Recreation Toy Store,17000,11,80000.00
+1988,Retreat Inn,7000,8,30000.00
+1990,Technical Parts Manufacturing,7000,5,30000.00
+1992,Totes & Baskets Company,6000,2,30000.00
+1994,World of Bikes,19000,17,80000.00
+2051,A Bicycle Association,19000,18,80000.00
