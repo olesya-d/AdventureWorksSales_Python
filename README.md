@@ -58,7 +58,7 @@ There is a **weak positive correlation (≈0.38)** between vacation and bonus. O
 
 To analyse the relationship between **Country** and **Revenue**, data was aggregated from the **`Sales.SalesTerritory`** table using SQL. Total revenue was calculated for each country, along with the percentage change between the current year (**SalesYTD**) and the previous year (**SalesLastYear**). In Python, two bar charts were created: one showing **total revenue by country** and another illustrating **the percentage change in revenue for each country**.
 
-![alt text](Question_3/images/Revenue_country.png)
+![alt text](Question_3/Images/Revenue_country.png)
 
 The **USA** leads with nearly **$45M**, followed by **Canada** at **$12M**, but both show moderate growth (**36%** and **20%**). In contrast, **GB (206%)**, **Germany (190%)**, and **Australia (162%)** are growing rapidly. 
 While it is important to maintain strong sales strategies in the USA and Canada to protect market share, high-growth countries such as GB, Germany, and Austria offer significant expansion potential. Investigating the drivers of growth in these regions and increasing marketing, investment, or staffing could help capture this momentum.
