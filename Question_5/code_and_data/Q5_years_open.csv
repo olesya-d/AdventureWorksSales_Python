@@ -1,0 +1,702 @@
+﻿BusinessEntityID,Name,AnnualRevenue,BusinessType,YearOpened,Specialty,NumberEmployees,Duration
+328,Purchase Mart,150000.00,OS,1992,Touring,49,30
+330,Major Sport Suppliers,300000.00,OS,1998,Mountain,52,24
+332,Family's Favorite Bike Shop,80000.00,BM,1997,Mountain,18,25
+334,Global Plaza,80000.00,BM,1975,Mountain,19,47
+336,Imported and Domestic Cycles,100000.00,BM,2000,Road,20,22
+338,Systematic Sales,300000.00,OS,1999,Touring,55,23
+340,eCommerce Bikes,300000.00,OS,1999,Mountain,58,23
+342,Mountain Toy Store,80000.00,BM,2000,Road,17,22
+344,Retail Sales and Service,80000.00,BM,1994,Road,14,28
+346,Designated Distributors,300000.00,OS,1979,Road,61,43
+348,Bold Bike Accessories,300000.00,OS,1999,Mountain,58,23
+350,Twin Cycles,80000.00,BM,1988,Touring,11,34
+352,Tiny Bike Boutique,30000.00,BM,1978,Road,4,44
+354,Acclaimed Bicycle Company,300000.00,OS,1979,Touring,61,43
+356,Serious Cycles,300000.00,OS,1996,Mountain,64,26
+358,Quality Bike Sales,300000.00,OS,1991,Touring,67,31
+360,Novelty Bikes,300000.00,OS,1993,Touring,70,29
+362,Distinctive Cycles Sales & Service,300000.00,OS,1995,Mountain,79,27
+364,Leading Bike Distributors,80000.00,BS,1978,Road,13,44
+366,Activity Center,150000.00,BS,1971,Road,37,51
+368,Brightwork Company,150000.00,BS,1979,Mountain,38,43
+370,Resale Services,80000.00,BM,1988,Mountain,16,34
+372,The Gear Store,80000.00,BM,1982,Mountain,14,40
+374,Immense Manufacturing Company,300000.00,OS,1998,Touring,73,24
+376,Extended Bike Sales,300000.00,OS,1990,Mountain,76,32
+378,Pedaling Components,150000.00,BS,1988,Touring,35,34
+380,Workout Emporium,150000.00,BS,1976,Touring,36,46
+382,Work and Play Association,80000.00,BM,1976,Road,12,46
+384,Seaside Bike Works,80000.00,BM,1970,Touring,10,52
+386,Nice Bikes,30000.00,BM,1975,Road,8,47
+388,Remarkable Bike Store,80000.00,BS,1972,Road,10,50
+390,Road-Way Mart,100000.00,BS,1998,Mountain,27,24
+326,Worthwhile Activity Store,30000.00,BM,1987,Mountain,7,35
+324,Valley Toy Store,30000.00,BM,1979,Mountain,6,43
+322,Irregulars Outlet,30000.00,BM,1984,Mountain,5,38
+320,Metropolitan Sales and Rental,30000.00,BM,1976,Road,4,46
+318,"Great Bikes ",30000.00,BM,1981,Mountain,3,41
+316,Fun Toys and Bikes,30000.00,BM,1973,Touring,2,49
+314,Top of the Line Bikes,150000.00,OS,1986,Touring,46,36
+312,Vinyl and Plastic Goods Corporation,150000.00,OS,1980,Mountain,43,42
+310,New Bikes Company,150000.00,OS,1974,Road,40,48
+308,Valley Bicycle Specialists,300000.00,OS,1979,Mountain,66,43
+306,Clamps & Brackets Co.,80000.00,BM,1985,Mountain,10,37
+304,Bicycle Accessories and Kits,30000.00,BM,1990,Mountain,9,32
+302,Area Bike Accessories,30000.00,BM,1982,Road,8,40
+300,Nationwide Supply,80000.00,BM,1987,Touring,17,35
+298,The Bike Mechanics,80000.00,BM,1994,Mountain,16,28
+296,Riders Company,80000.00,BM,1999,Road,15,23
+294,Professional Sales and Service,80000.00,BM,1991,Touring,14,31
+292,Next-Door Bike Store,80000.00,BM,1996,Mountain,13,26
+392,Small Cycle Store,100000.00,BS,1971,Road,28,51
+394,Blue-Ribbon Bike Company,30000.00,BM,1970,Touring,6,52
+396,Flawless Bike Shop,30000.00,BM,1978,Road,4,44
+398,Grand Bicycle Stores,30000.00,BM,1973,Mountain,2,49
+400,Exertion Activities Club,150000.00,BS,1984,Touring,32,38
+402,Impromptu Trips,150000.00,BS,1978,Mountain,33,44
+404,Margie's Travel,150000.00,BS,1972,Mountain,34,50
+406,Kickstand Sellers,30000.00,BM,1981,Mountain,3,41
+408,Nearest Bike Store,30000.00,BM,1976,Touring,4,46
+410,Fast Bike Works,100000.00,BS,1971,Touring,28,51
+412,Gasless Cycle Shop,100000.00,BS,2001,Road,29,21
+414,Lubricant and Grease Suppliers,150000.00,BS,1996,Mountain,30,26
+416,Teen Discount Store,80000.00,BM,1994,Mountain,16,28
+418,Transportation Options,80000.00,BM,1987,Mountain,17,35
+420,Capital Riding Supplies,150000.00,OS,1986,Mountain,46,36
+422,Bike Boutique,150000.00,OS,1992,Road,49,30
+424,Bikes Anyone?,100000.00,BS,1996,Touring,22,26
+426,Cross-town Parts Shop,80000.00,BS,1990,Road,19,32
+428,Finer Cycle Shop,80000.00,BS,1984,Mountain,16,38
+430,Center Cycle Shop,100000.00,BM,2000,Road,20,22
+432,Bulk Discount Store,80000.00,BM,2000,Road,17,22
+434,Country Parts Shop,80000.00,BM,1994,Road,14,28
+436,Second Bike Shop,80000.00,BM,2000,Road,19,22
+438,First-Rate Outlet,100000.00,BM,2000,Road,20,22
+440,Juvenile Sports Equipment,80000.00,BM,1994,Mountain,18,28
+442,Another Bicycle Company,30000.00,BM,1973,Touring,2,49
+444,Fourth Bike Store,30000.00,BM,1981,Touring,3,41
+446,Rodeway Bike Store,30000.00,BM,1976,Mountain,4,46
+448,Traction Tire Company,150000.00,BS,1990,Mountain,31,32
+450,Unsurpassed Bikes,150000.00,BS,1984,Touring,32,38
+452,Field Trip Inc,150000.00,BS,1978,Road,33,44
+454,Tire Company,150000.00,BS,1983,Road,45,39
+456,Uncompromising Quality Co,150000.00,BS,1991,Touring,46,31
+458,Metallic Paint and Overcoat Co,100000.00,BS,1971,Road,28,51
+460,Pro Sporting Goods,300000.00,OS,1972,Mountain,90,50
+462,Sporting Goods and Bicycle Shop,300000.00,OS,1977,Road,91,45
+464,Odometers and Accessories Company,300000.00,OS,1987,Touring,92,35
+466,Scratch-Resistant Finishes Company,80000.00,BS,1984,Mountain,16,38
+468,Topnotch Bikes,80000.00,BS,1978,Mountain,13,44
+470,"Unicycles, Bicycles, and Tricycles",80000.00,BS,1972,Touring,10,50
+472,Safe Cycles Shop,300000.00,OS,1998,Mountain,73,24
+474,Number 1 Supply,300000.00,OS,1990,Road,76,32
+476,Industrial Supplies,300000.00,OS,1995,Touring,79,27
+478,Golf and Cycle Store,300000.00,OS,1978,Mountain,86,44
+480,Front Runner Bikes,300000.00,OS,1983,Touring,87,39
+482,Favorite Toy Distributor,300000.00,OS,1975,Touring,88,47
+484,World Bike Discount Store,150000.00,BS,1979,Road,38,43
+486,Global Sporting Goods,150000.00,BS,1974,Road,39,48
+488,Historic Bicycle Sales,150000.00,BS,1982,Mountain,40,40
+490,Commuter Bicycle Store,80000.00,BM,1987,Touring,17,35
+492,Coalition Bike Company,80000.00,BM,1997,Mountain,18,25
+494,Travel Systems,80000.00,BM,1975,Road,19,47
+496,Grease and Oil Products Company,150000.00,BS,1979,Road,38,43
+498,Moderately-Priced Bikes Store,150000.00,BS,1974,Mountain,39,48
+500,Toy Manufacturing Inc,150000.00,BS,1977,Road,41,45
+502,Eighty Toy Stores,150000.00,BS,1985,Road,42,37
+504,Economy Bikes Company,150000.00,BS,1980,Mountain,43,42
+506,Third Bike Store,150000.00,BS,1988,Road,44,34
+508,Atypical Bike Company,100000.00,BM,2000,Road,20,22
+510,Bikes for Two,80000.00,BM,1994,Mountain,18,28
+512,Metal Processing Company,150000.00,BS,1986,Road,47,36
+514,Widget Bicycle Specialists,150000.00,BS,1994,Road,48,28
+516,Initial Bike Company,80000.00,BM,1996,Mountain,13,26
+518,Latest Sports Equipment,80000.00,BM,1991,Mountain,14,31
+520,Modern Bike Store,80000.00,BM,1999,Road,15,23
+522,Raw Materials Inc,300000.00,OS,1998,Mountain,73,24
+524,Lots of Bikes Storehouse,300000.00,OS,1990,Mountain,76,32
+526,Futuristic Bikes,300000.00,OS,1995,Mountain,79,27
+528,Parcel Express Delivery Service,150000.00,BS,1979,Road,38,43
+530,Outdoor Distributors,150000.00,BS,1974,Mountain,39,48
+532,North Bike Company,150000.00,BS,1982,Road,40,40
+534,Prosperous Tours,300000.00,OS,1999,Road,99,23
+536,Nonskid Tire Company,300000.00,OS,1999,Mountain,100,23
+538,Amalgamated Parts Shop,300000.00,OS,1999,Touring,99,23
+540,Metro Bike Works,300000.00,OS,1999,Mountain,100,23
+542,Best o' Bikes,80000.00,BS,1972,Touring,10,50
+544,Painters Bicycle Specialists,100000.00,BS,1998,Road,27,24
+546,Client Discount Store,100000.00,BM,2000,Mountain,20,22
+548,Eastside Sporting Goods,80000.00,BM,2000,Road,17,22
+550,Helmets and Cycles,80000.00,BM,1994,Touring,14,28
+552,Requisite Part Supply,150000.00,BS,1988,Road,35,34
+554,Racks and Security Systems,150000.00,BS,1976,Touring,36,46
+556,Mechanical Products Ltd.,150000.00,BS,1971,Road,37,51
+558,Commendable Bikes,150000.00,BS,1974,Road,39,48
+560,Online Bike Sellers,150000.00,BS,1982,Mountain,40,40
+562,Custom Accessories Company,300000.00,OS,1998,Road,98,24
+564,Unusual Bicycle Company,300000.00,OS,1999,Touring,99,23
+566,Courteous Bicycle Specialists,30000.00,BM,1982,Touring,8,40
+568,Hobby Store,30000.00,BM,1976,Mountain,5,46
+570,Professional Cycle Store,30000.00,BM,1970,Mountain,2,52
+572,Bike Universe,100000.00,BS,1971,Mountain,28,51
+574,Fifth Bike Store,100000.00,BS,2001,Road,25,21
+576,Independent Outlet,100000.00,BS,1996,Road,22,26
+578,Rambling Tours,80000.00,BS,1990,Touring,19,32
+580,Farthest Bike Store,300000.00,OS,1987,Touring,80,35
+582,Excellent Bikes,300000.00,OS,1992,Touring,81,30
+584,Curbside Universe,300000.00,OS,1984,Road,82,38
+586,Alternative Vehicles,150000.00,BS,1983,Road,45,39
+588,Channel Outlet,150000.00,BS,1991,Touring,46,31
+590,Full Sports Supply,150000.00,BS,1986,Mountain,47,36
+592,Retail Mall,300000.00,OS,1977,Road,91,45
+594,Racing Store,300000.00,OS,1987,Road,92,35
+596,Metro Metals Co.,300000.00,OS,1974,Touring,93,48
+598,Sheet Metal Manufacturing,80000.00,BM,1997,Road,17,25
+600,Thorough Parts and Repair Services,80000.00,BM,1975,Road,18,47
+602,Uttermost Bike Shop,80000.00,BM,2000,Road,19,22
+604,Mechanical Sports Center,150000.00,BS,1995,Road,40,27
+606,Speedometer Sales,150000.00,BS,1995,Road,37,27
+608,Two-Wheeled Transit Company,150000.00,BS,1983,Mountain,34,39
+610,Mountain Emporium,150000.00,BS,1998,Mountain,31,24
+612,Metro Cycle Shop,300000.00,OS,1989,Mountain,83,33
+614,Outdoor Sporting Goods,300000.00,OS,1981,Touring,84,41
+616,Tread Industries,300000.00,OS,1986,Mountain,85,36
+618,Petroleum Products Distributors,300000.00,OS,1978,Touring,86,44
+620,Tandem Bicycle Store,150000.00,OS,1986,Mountain,46,36
+622,Bikes and Motorbikes,150000.00,OS,1992,Road,49,30
+624,Budget Toy Store,300000.00,OS,1998,Mountain,52,24
+626,Camping and Sports Store,300000.00,OS,1987,Touring,80,35
+628,Ace Bicycle Supply,300000.00,OS,1992,Mountain,81,30
+630,Rural Department Store,150000.00,BS,1990,Touring,31,32
+632,Sports Commodities,150000.00,BS,1984,Mountain,32,38
+634,Riverside Company,150000.00,BS,1978,Road,33,44
+636,Bicycle Exporters,150000.00,BS,1972,Touring,34,50
+638,Responsible Bike Dealers,150000.00,BS,1989,Mountain,49,33
+640,Western Bike Supplies,150000.00,BS,1994,Road,48,28
+642,Advanced Bike Components,150000.00,OS,1974,Road,40,48
+644,Aerobic Exercise Company,150000.00,OS,1980,Road,43,42
+646,Rural Sporting Goods,80000.00,BM,1985,Road,10,37
+648,Corner Bicycle Supply,80000.00,BM,1993,Road,11,29
+650,Distance Bikes,80000.00,BM,1988,Road,12,34
+652,Westside Plaza,300000.00,OS,1989,Touring,83,33
+654,Ultimate Bike Shop,300000.00,OS,1981,Mountain,84,41
+656,Outstanding Cycles,300000.00,OS,1986,Touring,85,36
+658,Vigorous Sports Store,300000.00,OS,1984,Road,82,38
+660,Sports Merchandise,300000.00,OS,1989,Touring,83,33
+662,Fitness Toy Store,300000.00,OS,1981,Road,84,41
+664,Casual Bicycle Store,80000.00,BM,1985,Mountain,10,37
+666,Fitness Discount Store,80000.00,BM,1993,Touring,11,29
+668,General Cycle Storehouse,80000.00,BM,1988,Mountain,12,34
+670,Fitness Cycling,80000.00,BM,1988,Mountain,16,34
+672,Good Bike Shop,80000.00,BM,1982,Road,14,40
+674,Imaginary Toys,80000.00,BM,1976,Touring,12,46
+676,Inexpensive Parts Shop,150000.00,BS,1972,Mountain,34,50
+678,Nuts and Bolts Mfg.,150000.00,BS,1988,Mountain,35,34
+680,Principal Bicycle Supply,150000.00,BS,1976,Road,36,46
+682,Thrilling Bike Tours,150000.00,BS,1971,Touring,37,51
+684,This Area Sporting Goods,150000.00,BS,1979,Mountain,38,43
+686,Full-Service Bike Store,150000.00,BS,1974,Mountain,39,48
+688,Plastic Products Manufacturers,150000.00,BS,1982,Touring,40,40
+690,Kids and Adults Cycle Shop,300000.00,OS,1974,Mountain,93,48
+692,Grand Discount Store,300000.00,OS,1974,Mountain,94,48
+694,Genuine Bike Shop,300000.00,OS,1980,Road,95,42
+696,Extreme Riding Supplies,300000.00,OS,1986,Touring,96,36
+698,Bike Rims Company,300000.00,OS,1992,Road,97,30
+700,Fleet Bikes,150000.00,BS,1989,Mountain,49,33
+702,Local Hardware Factory,150000.00,BS,1997,Road,46,25
+704,Only Bikes and Accessories,150000.00,BS,1992,Mountain,43,30
+706,Rental Gallery,150000.00,BS,1995,Mountain,40,27
+708,South Bike Company,150000.00,BS,1995,Touring,37,27
+710,Wonderful Bikes Inc.,150000.00,BS,1983,Road,34,39
+712,Another Sporting Goods Company,150000.00,BS,1998,Road,31,24
+714,Discount Bicycle Specialists,100000.00,BS,1971,Road,28,51
+716,Famous Bike Sales and Service,100000.00,BS,2001,Road,25,21
+718,First Supplies,100000.00,BS,1996,Touring,22,26
+720,Machines & Cycles Store,80000.00,BS,1990,Touring,19,32
+722,Pedals Warehouse,80000.00,BS,1984,Road,16,38
+724,Two Wheels Cycle Store,80000.00,BS,1978,Road,13,44
+726,Westside Cycle Store,80000.00,BS,1972,Road,10,50
+728,Wholesale Bikes,100000.00,BS,1998,Road,27,24
+730,Very Best Sports Supply,100000.00,BS,1971,Road,28,51
+732,Urban Sports Emporium,100000.00,BS,2001,Road,29,21
+734,Superlative Bikes,150000.00,BS,1996,Mountain,30,26
+736,Primary Cycle Shop,150000.00,BS,1977,Road,41,45
+738,Sixth Bike Store,150000.00,BS,1985,Mountain,42,37
+740,Touring Services,150000.00,BS,1980,Road,43,42
+742,Vehicle Shop,150000.00,BS,1988,Road,44,34
+744,First Department Stores,150000.00,BS,1983,Mountain,45,39
+746,Grand Sport Boutique,150000.00,BS,1991,Road,46,31
+748,Major Equipment Co,150000.00,BS,1986,Touring,47,36
+750,Custom Sales and Service,150000.00,BS,1994,Road,48,28
+752,Elemental Sporting Goods,150000.00,BS,1989,Mountain,49,33
+754,Distinctive Store,150000.00,BS,1997,Road,46,25
+756,Grand Cycle Store,150000.00,BS,1992,Road,43,30
+758,Nearby Bike Mall,300000.00,OS,1983,Road,87,39
+760,Handy Bike Services,300000.00,OS,1975,Mountain,88,47
+762,Friendly Bike Shop,300000.00,OS,1980,Road,89,42
+764,Fashionable Bikes and Accessories,300000.00,OS,1972,Mountain,90,50
+766,Extreme Toy Store,300000.00,OS,1977,Mountain,91,45
+768,Citywide Service and Repair,300000.00,OS,1987,Road,92,35
+770,Best Cycle Store,300000.00,OS,1974,Touring,93,48
+772,Professional Sporting Goods,300000.00,OS,1974,Touring,94,48
+774,Rugged Bikes,300000.00,OS,1980,Touring,95,42
+776,Principal Bike Company,300000.00,OS,1986,Road,96,36
+778,One-Piece Handle Bars,300000.00,OS,1992,Mountain,97,30
+780,Finer Riding Supplies,300000.00,OS,1998,Road,98,24
+782,Neighborhood Store,300000.00,OS,1983,Road,87,39
+784,Online Bike Catalog,300000.00,OS,1975,Touring,88,47
+786,Outdoor Equipment Store,300000.00,OS,1980,Road,89,42
+788,Paint Supply,300000.00,OS,1972,Mountain,90,50
+790,Preferred Bikes,300000.00,OS,1977,Road,91,45
+792,Rally Day Mall,300000.00,OS,1987,Road,92,35
+794,Rewarding Activities Company,300000.00,OS,1974,Road,93,48
+796,Rich Department Store,300000.00,OS,1974,Touring,94,48
+798,Sales and Supply Company,300000.00,OS,1980,Road,95,42
+800,Stationary Bikes and Stands,300000.00,OS,1986,Road,96,36
+802,Successful Sales Company,150000.00,BS,1997,Road,46,25
+804,Downtown Hotel,300000.00,OS,1986,Mountain,85,36
+806,Certified Sports Supply,300000.00,OS,1978,Mountain,86,44
+808,Registered Cycle Store,300000.00,OS,1983,Mountain,87,39
+810,Rampart Amusement Company,300000.00,OS,1975,Touring,88,47
+812,Sundry Sporting Goods,30000.00,BM,1984,Road,5,38
+814,Excellent Riding Supplies,30000.00,BM,1979,Road,6,43
+816,Farthermost Bike Shop,30000.00,BM,1987,Road,7,35
+818,Suburban Cycle Shop,30000.00,BM,1982,Mountain,8,40
+820,Weekend Tours,30000.00,BM,1990,Road,9,32
+822,Racing Bike Outlet,300000.00,OS,1998,Road,52,24
+824,Utilitarian Sporting Goods,300000.00,OS,1999,Touring,55,23
+826,"Bike Goods ",300000.00,OS,1999,Road,58,23
+828,Vigorous Exercise Company,300000.00,OS,1979,Mountain,61,43
+830,Showcase for Cycles,300000.00,OS,1996,Road,64,26
+832,Lease-a-Bike Shop,300000.00,OS,1991,Road,67,31
+834,Functional Store South,300000.00,OS,1993,Mountain,70,29
+836,Active Cycling,300000.00,OS,1998,Road,73,24
+838,Stock Parts and Supplies,300000.00,OS,1990,Touring,76,32
+840,Roadway Supplies,300000.00,OS,1995,Road,79,27
+842,Sensational Discount Store,300000.00,OS,1987,Road,80,35
+844,Future Bikes,300000.00,OS,1992,Road,81,30
+846,Super Sports Store,300000.00,OS,1999,Road,100,23
+848,Satin Finish Company,300000.00,OS,1979,Mountain,66,43
+850,Regional Manufacturing,150000.00,OS,1974,Mountain,40,48
+852,Original Bicycle Supply Company,150000.00,OS,1980,Mountain,43,42
+854,First Center,150000.00,OS,1986,Mountain,46,36
+856,Action Bicycle Specialists,150000.00,OS,1992,Touring,49,30
+858,Roadway Bike Emporium,300000.00,OS,1998,Touring,52,24
+860,"Sleek Bikes ",300000.00,OS,1999,Touring,55,23
+862,Retail Sporting Equipment,300000.00,OS,1999,Mountain,58,23
+864,Price-Cutter Discount Bikes,300000.00,OS,1979,Road,61,43
+866,Brand New Bikes,300000.00,OS,1996,Road,64,26
+868,Central Bicycle Specialists,300000.00,OS,1991,Touring,67,31
+870,Vast Bike Sales and Rental,300000.00,OS,1993,Mountain,70,29
+872,Summer Sports Place,300000.00,OS,1998,Mountain,73,24
+874,Real Sporting Goods,300000.00,OS,1990,Mountain,76,32
+876,Versatile Sporting Goods Company,300000.00,OS,1996,Road,64,26
+878,Bicycle Outfitters,300000.00,OS,1991,Road,67,31
+880,The Bike Shop,300000.00,OS,1993,Mountain,70,29
+882,Safe Toys,300000.00,OS,1998,Mountain,73,24
+884,Qualified Sales and Repair Services,300000.00,OS,1990,Road,76,32
+886,Our Sporting Goods Store,300000.00,OS,1995,Road,79,27
+888,Lustrous Paints and Components,300000.00,OS,1987,Road,80,35
+890,Expert Sports Store,300000.00,OS,1992,Mountain,81,30
+892,Coho Sports,300000.00,OS,1984,Mountain,82,38
+894,Jumbo Bikes,150000.00,BS,1977,Touring,41,45
+896,Quick Delivery Service,150000.00,BS,1985,Mountain,42,37
+898,Tough and Reliable Parts,150000.00,BS,1980,Road,43,42
+900,Basic Sports Equipment,150000.00,BS,1988,Mountain,44,34
+902,Cash & Carry Bikes,150000.00,BS,1983,Mountain,45,39
+904,Convenient Bike Shop,150000.00,BS,1991,Road,46,31
+906,Fitness Bike Accessories,150000.00,BS,1986,Touring,47,36
+908,General Bike Corporation,150000.00,BS,1994,Road,48,28
+910,Quitting Business Distributors,150000.00,BS,1989,Touring,49,33
+912,Retail Cycle Shop,150000.00,BS,1997,Mountain,46,25
+914,Social Activities Club,150000.00,BS,1992,Road,43,30
+916,Blue Bicycle Company,150000.00,BS,1995,Road,40,27
+918,Expert Cycle Store,150000.00,BS,1995,Touring,37,27
+920,General Riding Supplies,150000.00,BS,1983,Mountain,34,39
+922,Parts Shop,150000.00,BS,1998,Road,31,24
+924,Riding Excursions,100000.00,BS,1971,Road,28,51
+926,Unique Bikes,100000.00,BS,2001,Mountain,25,21
+928,Rural Cycle Emporium,80000.00,BM,1988,Mountain,11,34
+930,Associated Bikes,30000.00,BM,1982,Mountain,8,40
+932,Modular Cycle Systems,30000.00,BM,1976,Road,5,46
+934,A Bike Store,30000.00,BM,1970,Road,2,52
+936,Journey Sporting Goods,80000.00,BM,1996,Mountain,13,26
+938,Two Bike Shops,80000.00,BM,1991,Road,14,31
+940,Cycles Wholesaler & Mfg.,80000.00,BM,1999,Touring,15,23
+942,Wheels Inc.,80000.00,BM,1994,Road,16,28
+944,Number One Bike Co.,150000.00,BS,1982,Road,40,40
+946,Racing Supply Distributors,150000.00,BS,1977,Touring,41,45
+948,Standard Bikes,150000.00,BS,1985,Mountain,42,37
+950,The Bicycle Accessories Company,150000.00,BS,1980,Road,43,42
+952,Active Systems,150000.00,BS,1988,Road,44,34
+954,Futuristic Sport Distributors,300000.00,OS,1974,Road,94,48
+956,Finer Sales and Service,300000.00,OS,1980,Road,95,42
+958,Big-Time Bike Store,300000.00,OS,1986,Road,96,36
+960,The Showroom,300000.00,OS,1992,Road,97,30
+962,Spa and Exercise Outfitters,300000.00,OS,1998,Mountain,98,24
+964,Year-Round Sports,300000.00,OS,1979,Mountain,66,43
+966,The New Bike Store,150000.00,OS,1974,Road,40,48
+968,Resident Cycle Shop,150000.00,OS,1980,Mountain,43,42
+970,Primary Bike Distributors,150000.00,OS,1986,Road,46,36
+972,Major Bicycle Store,150000.00,OS,1992,Touring,49,30
+974,Leather and Vinyl Manufacturing,300000.00,OS,1998,Road,52,24
+976,Genial Bike Associates,300000.00,OS,1999,Mountain,55,23
+978,Commercial Sporting Goods,300000.00,OS,1979,Mountain,61,43
+980,Wholesale Parts,300000.00,OS,1996,Road,64,26
+982,Steel Inc.,300000.00,OS,1991,Road,67,31
+984,Riding Cycles,300000.00,OS,1993,Road,70,29
+986,Metro Manufacturing,150000.00,BS,1977,Mountain,41,45
+988,Manufacturers Inc,150000.00,BS,1985,Road,42,37
+990,Locks Company,150000.00,BS,1980,Touring,43,42
+992,Latest Accessories Sales,150000.00,BS,1988,Road,44,34
+994,Incomparable Bicycle Store,150000.00,BS,1983,Touring,45,39
+996,Hometown Riding Supplies,150000.00,BS,1991,Mountain,46,31
+998,Greater Bike Store,150000.00,BS,1986,Mountain,47,36
+1000,Games and Sport Supply Company,150000.00,BS,1994,Touring,48,28
+1002,Distant Inn,150000.00,BS,1989,Road,49,33
+1004,Finer Mart,150000.00,BS,1997,Touring,46,25
+1006,Economic Parts Supply,150000.00,BS,1992,Road,43,30
+1008,Precision Gears Inc.,150000.00,BS,1995,Road,40,27
+1010,Cross-Country Riding Supplies,150000.00,BS,1995,Mountain,37,27
+1012,Stylish Department Stores,150000.00,BS,1983,Road,34,39
+1014,Bike World,150000.00,BS,1998,Mountain,31,24
+1016,Central Discount Store,100000.00,BS,1971,Mountain,28,51
+1018,Trusted Catalog Store,100000.00,BS,2001,Mountain,25,21
+1020,Bicycle Warehouse Inc.,100000.00,BS,1996,Mountain,22,26
+1022,Sharp Bikes,80000.00,BS,1990,Mountain,19,32
+1024,Exemplary Cycles,80000.00,BS,1984,Touring,16,38
+1026,Metropolitan Sports Supply,80000.00,BS,1978,Road,13,44
+1028,Progressive Sports,80000.00,BS,1972,Mountain,10,50
+1030,Underglaze and Finish Company,80000.00,BM,1993,Road,11,29
+1032,Brakes and Gears,80000.00,BM,1988,Mountain,12,34
+1034,The Accessories Store,80000.00,BM,1996,Road,13,26
+1036,Mountain Bike Store,80000.00,BM,1991,Touring,14,31
+1038,Bike Part Wholesalers,80000.00,BM,1999,Touring,15,23
+1040,Family Cycle Store,80000.00,BM,1994,Mountain,16,28
+1042,Popular Bike Lines,80000.00,BM,1987,Touring,17,35
+1044,Superb Sales and Repair,80000.00,BM,1997,Road,18,25
+1046,Better Bike Shop,80000.00,BM,1975,Mountain,19,47
+1048,Countryside Company,100000.00,BM,2000,Mountain,20,22
+1050,First Bike Store,80000.00,BM,2000,Road,17,22
+1052,Traditional Department Stores,80000.00,BM,1994,Mountain,14,28
+1054,Eastside Cycle Shop,80000.00,BM,1988,Touring,11,34
+1056,General Department Stores,30000.00,BM,1982,Mountain,8,40
+1058,Mass Market Bikes,30000.00,BM,1976,Touring,5,46
+1060,Operational Manufacturing,30000.00,BM,1970,Mountain,2,52
+1062,Online Bike Warehouse,80000.00,BM,1997,Road,17,25
+1064,Retread Tire Company,80000.00,BM,1975,Road,18,47
+1066,Small Bike Shop,80000.00,BM,2000,Mountain,19,22
+1068,Superior Hardware Distributors,100000.00,BM,2000,Mountain,20,22
+1070,Fitness Sport Boutique,80000.00,BM,1994,Mountain,18,28
+1072,Producer Goods Clearinghouse,80000.00,BM,1988,Road,16,34
+1074,Recreation Systems,80000.00,BM,1982,Road,14,40
+1076,Rustic Bike Store,80000.00,BM,1976,Touring,12,46
+1078,Eastside Parts Shop,80000.00,BM,1970,Touring,10,52
+1080,Exchange Parts Inc.,30000.00,BM,1975,Touring,8,47
+1082,First Cycle Store,30000.00,BM,1970,Road,6,52
+1084,Running and Cycling Gear,30000.00,BM,1978,Touring,4,44
+1086,Seventh Bike Store,30000.00,BM,1973,Road,2,49
+1088,Fast Services,30000.00,BM,1981,Road,3,41
+1090,General Associates,30000.00,BM,1976,Road,4,46
+1092,Good Toys,30000.00,BM,1984,Road,5,38
+1094,Little Bicycle Supply Shop,30000.00,BM,1979,Road,6,43
+1096,Retail Toy Store,30000.00,BM,1987,Road,7,35
+1098,Strenuous Exercise Shop,30000.00,BM,1982,Mountain,8,40
+1100,All Seasons Sports Supply,30000.00,BM,1990,Touring,9,32
+1102,Leisure Clearing House,80000.00,BM,1970,Road,10,52
+1104,Outdoor Toy Store,30000.00,BM,1975,Mountain,8,47
+1106,The Commissary,30000.00,BM,1970,Road,6,52
+1108,Affordable Sports Equipment,30000.00,BM,1978,Road,4,44
+1110,Local Sales and Rental,30000.00,BM,1973,Touring,2,49
+1112,Economy Center,150000.00,BS,1998,Mountain,31,24
+1114,Community Department Stores,150000.00,BS,1983,Mountain,34,39
+1116,Area Sheet Metal Supply,150000.00,BS,1995,Road,37,27
+1118,Synthetic Materials Manufacturing,150000.00,BS,1995,Road,40,27
+1120,Rural Sales and Service,150000.00,BS,1992,Road,43,30
+1122,Tubeless Tire Company,300000.00,OS,1980,Touring,89,42
+1124,Tires and Tubes,300000.00,OS,1972,Mountain,90,50
+1126,Hardware Components,300000.00,OS,1977,Mountain,91,45
+1128,Retail Sporting Goods,300000.00,OS,1987,Road,92,35
+1130,Efficient Cycling,300000.00,OS,1974,Touring,93,48
+1132,General Industries,150000.00,BS,1994,Road,48,28
+1134,Highway Bike Shop,150000.00,BS,1989,Road,49,33
+1136,Rental Bikes,150000.00,BS,1997,Road,46,25
+1138,Roving Sports,150000.00,BS,1992,Road,43,30
+1140,Express Bike Services,150000.00,BS,1995,Mountain,40,27
+1142,Major Amusement Company,150000.00,BS,1995,Mountain,37,27
+1144,Retail Discount Store,150000.00,BS,1983,Road,34,39
+1146,Vale Riding Supplies,150000.00,BS,1998,Touring,31,24
+1148,A Great Bicycle Company,100000.00,BS,1971,Road,28,51
+1150,Certified Bicycle Supply,100000.00,BS,2001,Road,25,21
+1152,Exceptional Cycle Services,100000.00,BS,1996,Touring,22,26
+1154,Instant Cycle Store,80000.00,BS,1990,Road,19,32
+1156,Leisure Activities,80000.00,BS,1984,Mountain,16,38
+1158,Paints and Solvents Company,80000.00,BS,1978,Touring,13,44
+1160,West Wind Distributors,100000.00,BS,2001,Touring,29,21
+1162,Bikes for Kids and Adults,150000.00,BS,1996,Mountain,30,26
+1164,Consolidated Sales,150000.00,BS,1990,Mountain,31,32
+1166,Home Town Bike Store,80000.00,BM,1988,Touring,11,34
+1168,Optimal Bikes,30000.00,BM,1982,Road,8,40
+1170,Sample Bike Store,30000.00,BM,1976,Road,5,46
+1172,Extras Sporting Goods,30000.00,BM,1970,Road,2,52
+1174,Sure & Reliable Sporting Goods,80000.00,BM,1997,Road,17,25
+1176,Eleventh Bike Store,80000.00,BM,1975,Road,18,47
+1178,Enterprise Center,80000.00,BM,2000,Touring,19,22
+1180,Purple Bicycle Company,100000.00,BM,2000,Road,20,22
+1182,New and Used Bicycles,80000.00,BM,1994,Road,18,28
+1184,Separate Parts Corporation,80000.00,BM,1988,Road,16,34
+1186,Basic Bike Company,80000.00,BM,1982,Road,14,40
+1188,"Fabrikam Inc., West",80000.00,BM,1976,Mountain,12,46
+1190,Mechanical Brake Manufacturers,80000.00,BM,1970,Touring,10,52
+1192,Non-Slip Pedal Company,30000.00,BM,1975,Road,8,47
+1194,Variety Bike Outlet,30000.00,BM,1970,Mountain,6,52
+1196,Weekend Bike Tours,30000.00,BM,1978,Road,4,44
+1198,"Fabrikam Inc., East",80000.00,BM,1993,Road,11,29
+1200,General Supplies,80000.00,BM,1988,Road,12,34
+1202,Noiseless Gear Company,80000.00,BM,1996,Mountain,13,26
+1204,Racing Toys,80000.00,BM,1991,Road,14,31
+1206,Capable Sales and Service,30000.00,BM,1981,Mountain,3,41
+1208,Little Sports Center,30000.00,BM,1976,Touring,4,46
+1210,Pretty Bikes and Toys,30000.00,BM,1984,Road,5,38
+1212,Road Way Sales and Rental,30000.00,BM,1979,Mountain,6,43
+1214,Sturdy Toys,30000.00,BM,1987,Mountain,7,35
+1216,Beneficial Exercises and Activities,30000.00,BM,1982,Road,8,40
+1218,Fad Outlet,30000.00,BM,1990,Road,9,32
+1220,Commerce Bicycle Specialists,80000.00,BM,1985,Mountain,10,37
+1222,Township Inn,80000.00,BM,1993,Road,11,29
+1224,Acceptable Sales & Service,80000.00,BM,1988,Road,12,34
+1226,Brown Bicycle Company,80000.00,BM,1996,Road,13,26
+1228,District Mall,80000.00,BM,1991,Road,14,31
+1230,Fitness Supplies,80000.00,BM,1999,Touring,15,23
+1232,Mail Market,80000.00,BM,1994,Touring,16,28
+1234,Spare Parts Co.,80000.00,BM,1987,Mountain,17,35
+1236,Twelfth Bike Store,80000.00,BM,1997,Mountain,18,25
+1238,Consolidated Messenger,30000.00,BM,1982,Road,8,40
+1240,Daring Rides,30000.00,BM,1976,Road,5,46
+1242,Field Trip Store,30000.00,BM,1970,Mountain,2,52
+1244,Finish and Sealant Products,80000.00,BM,1997,Road,17,25
+1246,Finer Parts Shop,80000.00,BM,1975,Mountain,18,47
+1248,Glossy Bikes,80000.00,BM,2000,Touring,19,22
+1250,Next Door Cycles,100000.00,BM,2000,Touring,20,22
+1252,Up-To-Date Sports,100000.00,BM,2000,Mountain,20,22
+1254,Mountain Bike Center,80000.00,BM,1994,Road,18,28
+1256,Specialty Sports Store,80000.00,BM,1988,Mountain,16,34
+1258,Scooters and Bikes Store,80000.00,BM,1982,Road,14,40
+1260,Closest Bicycle Store,80000.00,BM,1976,Mountain,12,46
+1262,Roadway Bicycle Supply,80000.00,BM,1970,Touring,10,52
+1264,Refined Department Stores,30000.00,BM,1975,Road,8,47
+1266,Reasonable Bicycle Sales,30000.00,BM,1970,Road,6,52
+1268,Out-of-the-Way Hotels,30000.00,BM,1978,Mountain,4,44
+1270,Outdoor Sports Supply,30000.00,BM,1973,Mountain,2,49
+1272,Outdoor Aerobic Systems Company,30000.00,BM,1981,Road,3,41
+1274,Self-Contained Cycle Parts Company,30000.00,BM,1976,Road,4,46
+1276,Metal Clearing House,30000.00,BM,1984,Touring,5,38
+1278,Many Bikes Store,30000.00,BM,1979,Mountain,6,43
+1280,Largest Bike Store,30000.00,BM,1987,Road,7,35
+1282,Kickstands and Accessories Company,30000.00,BM,1982,Touring,8,40
+1284,Instruments and Parts Company,30000.00,BM,1990,Touring,9,32
+1286,Neighborhood Bicycle Storehouse,80000.00,BM,1985,Touring,10,37
+1288,Gear-Shift Bikes Limited,80000.00,BM,1993,Road,11,29
+1290,Frugal Bike Shop,80000.00,BM,1988,Mountain,12,34
+1292,Family Entertainment Center,300000.00,OS,1980,Touring,89,42
+1294,Go-cart and Bike Specialists,300000.00,OS,1972,Mountain,90,50
+1296,Trailblazing Sports,300000.00,OS,1977,Mountain,91,45
+1298,Racing Partners,300000.00,OS,1987,Mountain,92,35
+1300,Perfect Toys,300000.00,OS,1974,Touring,93,48
+1302,Exhibition Showroom,300000.00,OS,1974,Mountain,94,48
+1304,Authorized Bike Sales and Rental,300000.00,OS,1980,Touring,95,42
+1306,Two-Seater Bikes,300000.00,OS,1986,Touring,96,36
+1308,More Bikes!,300000.00,OS,1992,Road,97,30
+1310,Unified Sports Company,300000.00,OS,1998,Mountain,98,24
+1312,National Manufacturing,300000.00,OS,1999,Road,99,23
+1314,Volume Bike Sellers,300000.00,OS,1999,Mountain,100,23
+1316,Wheelsets Storehouse,300000.00,OS,1979,Road,66,43
+1318,Town Industries,150000.00,OS,1974,Touring,40,48
+1320,Security Racks and Locks Wholesalers,150000.00,OS,1980,Mountain,43,42
+1322,Rapid Bikes,150000.00,OS,1986,Mountain,46,36
+1324,Metro Sports Equipment,150000.00,OS,1992,Mountain,49,30
+1326,Nearby Sporting Goods,300000.00,OS,1998,Road,52,24
+1328,Front Sporting Goods,300000.00,OS,1999,Mountain,55,23
+1330,Elite Bikes,300000.00,OS,1999,Road,58,23
+1332,Catalog Store,300000.00,OS,1999,Mountain,55,23
+1334,Chic Department Stores,300000.00,OS,1999,Mountain,58,23
+1336,Eastside Department Store,300000.00,OS,1979,Road,61,43
+1338,Sports Sales and Rental,300000.00,OS,1996,Mountain,64,26
+1340,Cycle Merchants,300000.00,OS,1991,Road,67,31
+1342,Global Sports Outlet,300000.00,OS,1993,Mountain,70,29
+1344,Exotic Bikes,300000.00,OS,1998,Road,73,24
+1346,Fitness Hotel,300000.00,OS,1990,Road,76,32
+1348,Healthy Activity Store,300000.00,OS,1995,Mountain,79,27
+1350,Every Bike Shop,300000.00,OS,1987,Road,80,35
+1352,Grand Industries,300000.00,OS,1992,Touring,81,30
+1354,Ideal Components,300000.00,OS,1984,Touring,82,38
+1356,Larger Cycle Shop,300000.00,OS,1989,Road,83,33
+1358,Leading Sales & Repair,300000.00,OS,1981,Road,84,41
+1360,Main Bicycle Services,300000.00,OS,1986,Road,85,36
+1362,Metro Bike Mart,300000.00,OS,1978,Mountain,86,44
+1364,Tandem Sales and Service,150000.00,BS,1972,Road,34,50
+1366,Sensible Sports,150000.00,BS,1978,Touring,33,44
+1368,Reliable Retail Center,150000.00,BS,1984,Road,32,38
+1370,Liquidation Sales,150000.00,BS,1990,Touring,31,32
+1372,Friendly Bike Shop,150000.00,BS,1996,Road,30,26
+1374,Yellow Bicycle Company,100000.00,BS,2001,Mountain,29,21
+1376,Sports Products Store,100000.00,BS,1971,Road,28,51
+1378,Selected Distributors,100000.00,BS,1998,Mountain,27,24
+1380,Impervious Paint Company,80000.00,BS,1972,Mountain,10,50
+1382,Shipping Specialists,80000.00,BS,1978,Road,13,44
+1384,Finer Sporting Goods,80000.00,BS,1984,Touring,16,38
+1386,Authentic Sales and Service,80000.00,BS,1990,Mountain,19,32
+1388,Official Parts Shop,100000.00,BS,1996,Road,22,26
+1390,"Contoso, Ltd.",100000.00,BS,2001,Road,25,21
+1392,Discount Tours,100000.00,BS,1971,Road,28,51
+1394,Tire Exchange,150000.00,BS,1998,Mountain,31,24
+1396,Racing Tours,150000.00,BS,1983,Mountain,34,39
+1398,Oils and Fluids Warehouse,150000.00,BS,1995,Mountain,37,27
+1400,Finished Parts Shop,150000.00,BS,1995,Mountain,40,27
+1402,Consumer Equipment,150000.00,BS,1992,Road,43,30
+1404,Rally Master Company Inc,300000.00,OS,1992,Touring,97,30
+1406,Professional Cyclists,300000.00,OS,1998,Road,98,24
+1408,Sports Products Store,300000.00,OS,1999,Road,99,23
+1410,Exclusive Bicycle Mart,300000.00,OS,1999,Road,100,23
+1412,City Manufacturing,300000.00,OS,1979,Mountain,66,43
+1414,Bike Dealers Association,150000.00,OS,1974,Road,40,48
+1416,Pedal Systems Company,150000.00,OS,1980,Road,43,42
+1418,"Health Spa, Limited",150000.00,OS,1986,Road,46,36
+1420,Global Bike Retailers,150000.00,OS,1992,Touring,49,30
+1422,Fashionable Department Stores,300000.00,OS,1998,Mountain,52,24
+1424,Closeout Boutique,300000.00,OS,1999,Mountain,55,23
+1426,Bicycle Merchandise Warehouse,300000.00,OS,1999,Road,58,23
+1428,Spoke Manufacturers,300000.00,OS,1979,Road,61,43
+1430,Leather Seat Factory,300000.00,OS,1996,Mountain,64,26
+1432,Good Bicycle Store,300000.00,OS,1991,Road,67,31
+1434,Endurance Bikes,300000.00,OS,1993,Road,70,29
+1436,Practical Bike Supply Company,100000.00,BS,2001,Mountain,25,21
+1438,Some Discount Store,100000.00,BS,1996,Mountain,22,26
+1440,Variety Cycling,80000.00,BS,1990,Touring,19,32
+1442,Accessories Network,80000.00,BS,1984,Touring,16,38
+1444,Remote Bicycle Specialists,80000.00,BS,1978,Road,13,44
+1446,Curbside Sporting Goods,80000.00,BS,1972,Road,10,50
+1448,Friendly Neighborhood Bikes,100000.00,BS,1998,Mountain,27,24
+1450,Guaranteed Sales and Service,100000.00,BS,1971,Road,28,51
+1452,Preferable Bikes,100000.00,BS,2001,Touring,29,21
+1454,Recommended Bicycles,150000.00,BS,1996,Road,30,26
+1456,Sunny Place Bikes,150000.00,BS,1990,Road,31,32
+1458,Alpine Ski House,150000.00,BS,1984,Road,32,38
+1460,Cycles and Scooters,150000.00,BS,1978,Road,33,44
+1462,Small Bike Accessories Shop,150000.00,BS,1972,Touring,34,50
+1464,List Price Catalog Company,150000.00,BS,1988,Touring,35,34
+1466,Seats and Saddles Company,150000.00,BS,1976,Mountain,36,46
+1468,Village Tours,150000.00,BS,1971,Mountain,37,51
+1470,All Cycle Shop,100000.00,BS,1998,Mountain,27,24
+1472,Tachometers and Accessories,100000.00,BS,1971,Mountain,28,51
+1474,Cycles Sales and Repair,100000.00,BS,2001,Touring,29,21
+1476,Low Price Cycles,150000.00,BS,1996,Mountain,30,26
+1478,Metropolitan Manufacturing,150000.00,BS,1990,Road,31,32
+1480,Orange Bicycle Company,150000.00,BS,1984,Road,32,38
+1482,Riding Associates,150000.00,BS,1978,Mountain,33,44
+1484,Essential Bike Works,150000.00,BS,1972,Road,34,50
+1486,Rural Mountain Bike Mart,150000.00,BS,1988,Road,35,34
+1488,City Cycling,150000.00,BS,1976,Road,36,46
+1490,Engineered Bike Systems,150000.00,BS,1971,Touring,37,51
+1796,Professional Containers and Packaging Co.,150000.00,BS,1997,Mountain,46,25
+1798,One Bike Company,150000.00,BS,1989,Mountain,49,33
+1800,Hiatus Bike Tours,150000.00,BS,1994,Touring,48,28
+1802,Cycling Goods,150000.00,BS,1986,Road,47,36
+1804,Cycle Clearance,150000.00,BS,1991,Touring,46,31
+1806,Black Bicycle Company,150000.00,BS,1983,Mountain,45,39
+1808,Transport Bikes,150000.00,BS,1988,Touring,44,34
+1810,Sellers of Cycles,150000.00,BS,1980,Road,43,42
+1812,Maintenance and Repair for Bicycles,150000.00,BS,1985,Touring,42,37
+1814,Fitness Department Stores,150000.00,BS,1977,Touring,41,45
+1816,Famous Bike Shop,150000.00,BS,1982,Mountain,40,40
+1818,Eastward Bike Accessories,150000.00,BS,1974,Touring,39,48
+1820,Strong Metal Manufacturing,150000.00,BS,1979,Road,38,43
+1822,Gift and Toy Store,150000.00,BS,1971,Road,37,51
+1824,Major Sporting Goods,150000.00,BS,1976,Road,36,46
+1826,Executive Discount Store,150000.00,BS,1988,Road,35,34
+1828,Major Cycling,300000.00,OS,1995,Road,79,27
+1830,Getaway Inn,300000.00,OS,1987,Road,80,35
+1832,Downhill Bicycle Specialists,300000.00,OS,1992,Mountain,81,30
+1834,Bike Experts,300000.00,OS,1984,Mountain,82,38
+1836,Extraordinary Bike Works,300000.00,OS,1989,Mountain,83,33
+1838,Valley Bicycle Distributors,300000.00,OS,1981,Road,84,41
+1840,Top Sports Supply,300000.00,OS,1986,Mountain,85,36
+1842,Racing Sales and Service,300000.00,OS,1978,Road,86,44
+1844,Metropolitan Bicycle Supply,300000.00,OS,1983,Mountain,87,39
+1846,Honest Repair Service,300000.00,OS,1975,Touring,88,47
+1848,Designer Department Stores,300000.00,OS,1980,Road,89,42
+1850,Wheel Gallery,300000.00,OS,1972,Road,90,50
+1852,Top Bike Market,300000.00,OS,1987,Touring,80,35
+1854,Region Bike Company,300000.00,OS,1992,Road,81,30
+1856,Grown-up Bike Store,300000.00,OS,1984,Mountain,82,38
+1858,Bicycle Lines Distributors,300000.00,OS,1989,Mountain,83,33
+1860,Sparkling Paint and Finishes,300000.00,OS,1981,Mountain,84,41
+1862,Racing Association,300000.00,OS,1986,Road,85,36
+1864,Plastic Parts Company,300000.00,OS,1978,Mountain,86,44
+1866,Gears and Parts Company,300000.00,OS,1983,Touring,87,39
+1868,Executive Gift Store,300000.00,OS,1975,Mountain,88,47
+1870,Big Cycle Mall,300000.00,OS,1980,Touring,89,42
+1872,Budget Bike Company,80000.00,BM,1997,Road,18,25
+1874,Eighth Bike Store,80000.00,BM,1975,Touring,19,47
+1876,Demand Distributors,100000.00,BM,2000,Road,20,22
+1878,Immediate Repair Shop,80000.00,BM,2000,Mountain,17,22
+1880,Off-Price Bike Center,80000.00,BM,1994,Touring,14,28
+1882,Red Bicycle Company,80000.00,BM,1988,Mountain,11,34
+1884,Retirement Activities Association,30000.00,BM,1982,Road,8,40
+1886,Trendy Department Stores,30000.00,BM,1976,Touring,5,46
+1888,Vintage Sport Boutique,30000.00,BM,1970,Touring,2,52
+1890,Travel Sports,80000.00,BM,1997,Mountain,17,25
+1892,West Side Mart,80000.00,BM,1975,Touring,18,47
+1894,The Bike Outlet,80000.00,BM,2000,Touring,19,22
+1896,Tenth Bike Store,80000.00,BM,1994,Road,18,28
+1898,Valuable Bike Parts Company,80000.00,BM,1988,Mountain,16,34
+1900,Fun Times Club,80000.00,BM,1982,Road,14,40
+1902,Chain and Chain Tool Distributions,80000.00,BM,1976,Road,12,46
+1904,Mobile Outlet,80000.00,BM,1970,Road,10,52
+1906,Regional Cycle Shop,30000.00,BM,1975,Road,8,47
+1908,Rural Bicycle Supply,30000.00,BM,1970,Mountain,6,52
+1910,Wingtip Toys,80000.00,BM,1999,Mountain,15,23
+1912,The Cycle Store,80000.00,BM,1994,Mountain,16,28
+1914,Educational Services,80000.00,BM,1987,Touring,17,35
+1916,Active Life Toys,80000.00,BM,1997,Road,18,25
+1918,Simple Bike Parts,80000.00,BM,1975,Road,19,47
+1920,Timely Shipping Service,100000.00,BM,2000,Mountain,20,22
+1922,A Cycle Shop,80000.00,BM,2000,Touring,17,22
+1924,Bike Products and Accessories,80000.00,BM,1994,Mountain,14,28
+1926,Fitness Toys,80000.00,BM,1988,Touring,11,34
+1928,Quick Parts and Service,30000.00,BM,1984,Touring,5,38
+1930,Reliable Brake Systems,30000.00,BM,1979,Mountain,6,43
+1932,Thrifty Parts and Sales,30000.00,BM,1987,Road,7,35
+1934,A Typical Bike Shop,30000.00,BM,1982,Road,8,40
+1936,Active Transport Inc.,30000.00,BM,1990,Road,9,32
+1938,Cycle Parts and Accessories,80000.00,BM,1985,Touring,10,37
+1940,Fasteners & Bolts Outlet,80000.00,BM,1993,Touring,11,29
+1942,Functional Store North,80000.00,BM,1988,Mountain,12,34
+1944,Quantity Discounts,80000.00,BM,1996,Road,13,26
+1946,Swift Cycles,80000.00,BM,1991,Road,14,31
+1948,Classic Cycle Store,80000.00,BM,1999,Mountain,15,23
+1950,"Helpful Sales and Repair Service ",80000.00,BM,1994,Touring,16,28
+1952,Large Bike Shop,80000.00,BM,1987,Mountain,17,35
+1954,Recreation Supplies,80000.00,BM,1997,Mountain,18,25
+1956,Wire Baskets and Parts,80000.00,BM,1975,Road,19,47
+1958,Ultimate Bicycle Company,300000.00,OS,1974,Mountain,94,48
+1960,Sports Store,300000.00,OS,1980,Mountain,95,42
+1962,Metropolitan Equipment,300000.00,OS,1986,Road,96,36
+1964,Extended Tours,300000.00,OS,1992,Road,97,30
+1966,Convenient Sales and Service,300000.00,OS,1998,Road,98,24
+1968,Solid Bike Parts,300000.00,OS,1999,Road,99,23
+1970,Permanent Finish Products,300000.00,OS,1999,Mountain,100,23
+1972,Mercantile Outlet,300000.00,OS,1979,Mountain,66,43
+1974,Links Works,150000.00,OS,1974,Mountain,40,48
+1976,Exhilarating Cycles,150000.00,OS,1980,Road,43,42
+1978,Exercise Center,80000.00,BM,1975,Mountain,19,47
+1980,Great Bicycle Supply,100000.00,BM,2000,Mountain,20,22
+1982,Mail-Order Outlet,80000.00,BM,2000,Road,17,22
+1984,Nearby Cycle Shop,80000.00,BM,1994,Mountain,14,28
+1986,Recreation Toy Store,80000.00,BM,1988,Mountain,11,34
+1988,Retreat Inn,30000.00,BM,1982,Road,8,40
+1990,Technical Parts Manufacturing,30000.00,BM,1976,Touring,5,46
+1992,Totes & Baskets Company,30000.00,BM,1970,Road,2,52
+1994,World of Bikes,80000.00,BM,1997,Mountain,17,25
+2051,A Bicycle Association,80000.00,BM,1975,Touring,18,47

@@ -1,5 +1,0 @@
-1. What are the regional sales in the best performing country? 
-Step 1) A SQL query to find best performing country by calculating the total sales per country;
-Step 2) A SQL query to select regions belonging to the best performing country;
-Step 3) Use matplotlib.pyplot to build pie charts to present the sales by region  in total.
-
