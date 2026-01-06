@@ -58,8 +58,7 @@ There is a **weak positive correlation (≈0.38)** between vacation and bonus. O
 
 To analyse the relationship between **Country** and **Revenue**, data was aggregated from the **`Sales.SalesTerritory`** table using SQL. Total revenue was calculated for each country, along with the percentage change between the current year (**SalesYTD**) and the previous year (**SalesLastYear**). In Python, two bar charts were created: one showing **total revenue by country** and another illustrating **the percentage change in revenue for each country**.
 
-![alt text](Question_3/images/Revenue_by_countries.png)
-![alt text](Question_3/images/Change_by_countries.png)
+![alt text](Question_3/images/Revenue_country.png)
 
 The **USA** leads with nearly **$45M**, followed by **Canada** at **$12M**, but both show moderate growth (**36%** and **20%**). In contrast, **GB (206%)**, **Germany (190%)**, and **Australia (162%)** are growing rapidly. 
 While it is important to maintain strong sales strategies in the USA and Canada to protect market share, high-growth countries such as GB, Germany, and Austria offer significant expansion potential. Investigating the drivers of growth in these regions and increasing marketing, investment, or staffing could help capture this momentum.
@@ -105,10 +104,10 @@ To address this question data was extracted from the view **`Sales.vStoreWithDem
 it's important to note a peculiarity in our data: revenue is not recorded as a continuous figure but is categorised into five distinct buckets (30K, 80K, 100K, etc.). This makes the graphics look a little unusual, but it still allows to see the overall trend.
 
 The initial analysis involved exploring the correlations between store size (SquareFeet), number of employees, and revenue using plots generated with Python libraries Seaborn and Matplotlib. 
-![alt text](Question_6/images/box_shops.png)
-![alt text](Question_6/images/line_shops.png)
-![alt text](Question_6/images/box_empl.png)
-![alt text](Question_6/images/line_empl.png)
+![alt text](Question_6/images/shopsize_revenue.png)
+
+![alt text](Question_6/images/employees_revenue.png)
+
 
 These visualisations confirmed the expected trend: larger stores with more employees tend to generate higher revenue. However, this insight alone was not very meaningful, since larger stores naturally earn more. To measure efficiency or performance fairly was created more informative metric:
 
@@ -120,7 +119,11 @@ This scaterplot shows slight negative correlation. While large stores generate h
 
 Using this new efficiency metric, we can focus on specific stores that deserve our attention. The tables show Top 10 Most Efficient and Least Efficient stores.
 
+### Most Efficient Stores
+
 ![alt text](Question_6/images/tabletop.png)
+
+### Least Efficient Stores
 
 ![alt text](Question_6/images/tablebottom.png)
 
